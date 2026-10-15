@@ -1,0 +1,2848 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "icfes-2005-1-lenguaje-1",
+      "number": 1,
+      "area": "lectura",
+      "discipline": "Lenguaje",
+      "period": "2005-1",
+      "page": 1,
+      "title": "La función de la escritura poética",
+      "prompt": "El propósito principal del texto Arte poética es",
+      "options": [
+        "comparar la poesía con otras formas artísticas.",
+        "enumerar los elementos de la escritura poética.",
+        "exponer características universales de la poesía.",
+        "establecer la función de la escritura poética."
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "Las órdenes «Inventa mundos nuevos» y «cuida tu palabra» proponen qué debe hacer el poeta. El texto define la función de la escritura poética, más que enumerar recursos o comparar artes.",
+      "topic": "Configuración del sentido global del texto",
+      "competency": "Interpretativa",
+      "source": "archive/2005-1/lenguaje.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 6,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "Arte poética",
+        "body": "Que el verso sea como una llave\nque abra mil puertas.\nUna hoja cae; algo pasa volando;\ncuanto miren los ojos creado sea,\ny el alma del oyente quede temblando.\n\nInventa mundos nuevos y cuida tu palabra;\nel adjetivo, cuando no da vida, mata.\nEstamos en el ciclo de los nervios.\nEl músculo cuelga,\ncomo recuerdo, en los museos;\nMas no por eso tenemos menos fuerza:\nel vigor verdadero reside en la cabeza.\n\nPor qué cantáis la rosa, ¡oh Poetas!\nhacedla florecer en el poema;\nSólo para nosotros\nviven todas las cosas bajo el Sol.\nEl poeta es un pequeño Dios.",
+        "citation": "Vicente Huidobro, El espejo de agua, 1916. Reproducido en el cuadernillo de Lenguaje, 2005-1.",
+        "verse": true
+      }
+    },
+    {
+      "id": "icfes-2005-1-lenguaje-2",
+      "number": 2,
+      "area": "lectura",
+      "discipline": "Lenguaje",
+      "period": "2005-1",
+      "page": 1,
+      "title": "Crear con las palabras",
+      "prompt": "En el verso «cuanto miren los ojos creado sea», se quiere dar a entender que la función del poeta consiste en",
+      "options": [
+        "inventar el mundo de forma asombrosa.",
+        "describir objetivamente lo que observa.",
+        "retratar la naturaleza mediante palabras.",
+        "explicar lo observado de manera poética."
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "La clave está en «creado»: el poeta inventa un mundo mediante el lenguaje. Las alternativas que se limitan a describir o retratar no recogen esa idea central.",
+      "topic": "Función  semántica de la información local.",
+      "competency": "Interpretativa",
+      "source": "archive/2005-1/lenguaje.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 7,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "Arte poética",
+        "body": "Que el verso sea como una llave\nque abra mil puertas.\nUna hoja cae; algo pasa volando;\ncuanto miren los ojos creado sea,\ny el alma del oyente quede temblando.\n\nInventa mundos nuevos y cuida tu palabra;\nel adjetivo, cuando no da vida, mata.\nEstamos en el ciclo de los nervios.\nEl músculo cuelga,\ncomo recuerdo, en los museos;\nMas no por eso tenemos menos fuerza:\nel vigor verdadero reside en la cabeza.\n\nPor qué cantáis la rosa, ¡oh Poetas!\nhacedla florecer en el poema;\nSólo para nosotros\nviven todas las cosas bajo el Sol.\nEl poeta es un pequeño Dios.",
+        "citation": "Vicente Huidobro, El espejo de agua, 1916. Reproducido en el cuadernillo de Lenguaje, 2005-1.",
+        "verse": true
+      }
+    },
+    {
+      "id": "icfes-2005-1-lenguaje-3",
+      "number": 3,
+      "area": "lectura",
+      "discipline": "Lenguaje",
+      "period": "2005-1",
+      "page": 1,
+      "title": "El poder de un adjetivo",
+      "prompt": "Teniendo en cuenta el sentido global del texto, se puede afirmar que el verso «el adjetivo, cuando no da vida, mata» sugiere que la función de la palabra poética es",
+      "options": [
+        "generar vida con su expresión.",
+        "aniquilar la imaginación.",
+        "ocultar la realidad existente.",
+        "hacer aflorar el inconsciente."
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "El poema pide que las palabras creen y den vida. «Mata» expresa el efecto de una palabra que no cumple esa función creadora.",
+      "topic": "Configuración del sentido global del texto",
+      "competency": "Interpretativa",
+      "source": "archive/2005-1/lenguaje.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 8,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "Arte poética",
+        "body": "Que el verso sea como una llave\nque abra mil puertas.\nUna hoja cae; algo pasa volando;\ncuanto miren los ojos creado sea,\ny el alma del oyente quede temblando.\n\nInventa mundos nuevos y cuida tu palabra;\nel adjetivo, cuando no da vida, mata.\nEstamos en el ciclo de los nervios.\nEl músculo cuelga,\ncomo recuerdo, en los museos;\nMas no por eso tenemos menos fuerza:\nel vigor verdadero reside en la cabeza.\n\nPor qué cantáis la rosa, ¡oh Poetas!\nhacedla florecer en el poema;\nSólo para nosotros\nviven todas las cosas bajo el Sol.\nEl poeta es un pequeño Dios.",
+        "citation": "Vicente Huidobro, El espejo de agua, 1916. Reproducido en el cuadernillo de Lenguaje, 2005-1.",
+        "verse": true
+      }
+    },
+    {
+      "id": "icfes-2005-1-lenguaje-4",
+      "number": 4,
+      "area": "lectura",
+      "discipline": "Lenguaje",
+      "period": "2005-1",
+      "page": 1,
+      "title": "El poeta como creador",
+      "prompt": "Según el texto Arte poética, «El poeta es un pequeño Dios», porque",
+      "options": [
+        "habita un mundo ultraterreno.",
+        "determina el destino humano.",
+        "crea mundos con la palabra.",
+        "domina a otros mediante palabras."
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "La comparación alude a la creación: así como un dios crea, el poeta construye mundos con palabras. No se atribuye al poeta poder sobre el destino de otras personas.",
+      "topic": "Función  semántica de la información local.",
+      "competency": "Comprensiva",
+      "source": "archive/2005-1/lenguaje.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 9,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "Arte poética",
+        "body": "Que el verso sea como una llave\nque abra mil puertas.\nUna hoja cae; algo pasa volando;\ncuanto miren los ojos creado sea,\ny el alma del oyente quede temblando.\n\nInventa mundos nuevos y cuida tu palabra;\nel adjetivo, cuando no da vida, mata.\nEstamos en el ciclo de los nervios.\nEl músculo cuelga,\ncomo recuerdo, en los museos;\nMas no por eso tenemos menos fuerza:\nel vigor verdadero reside en la cabeza.\n\nPor qué cantáis la rosa, ¡oh Poetas!\nhacedla florecer en el poema;\nSólo para nosotros\nviven todas las cosas bajo el Sol.\nEl poeta es un pequeño Dios.",
+        "citation": "Vicente Huidobro, El espejo de agua, 1916. Reproducido en el cuadernillo de Lenguaje, 2005-1.",
+        "verse": true
+      }
+    },
+    {
+      "id": "icfes-2005-1-lenguaje-5",
+      "number": 5,
+      "area": "lectura",
+      "discipline": "Lenguaje",
+      "period": "2005-1",
+      "page": 1,
+      "title": "Reconocer el creacionismo",
+      "prompt": "Teniendo en cuenta el texto Arte poética, se puede afirmar que este pertenece al movimiento de vanguardia denominado",
+      "options": [
+        "Futurismo, porque el poeta declara su adhesión al progreso.",
+        "Ultraísmo, porque propone una poética fundada en la abundancia de metáforas.",
+        "Dadaísmo, porque cimienta su poética en la conjunción fortuita de imágenes dispares.",
+        "Creacionismo, porque el poeta declara su independencia de la naturaleza."
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "La invitación a hacer florecer la rosa en el poema, en vez de copiarla, muestra la autonomía creadora de la poesía. Esa propuesta corresponde al creacionismo.",
+      "topic": "Del Sentido del texto  hacia otros textos",
+      "competency": "Propositiva",
+      "source": "archive/2005-1/lenguaje.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 10,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "Arte poética",
+        "body": "Que el verso sea como una llave\nque abra mil puertas.\nUna hoja cae; algo pasa volando;\ncuanto miren los ojos creado sea,\ny el alma del oyente quede temblando.\n\nInventa mundos nuevos y cuida tu palabra;\nel adjetivo, cuando no da vida, mata.\nEstamos en el ciclo de los nervios.\nEl músculo cuelga,\ncomo recuerdo, en los museos;\nMas no por eso tenemos menos fuerza:\nel vigor verdadero reside en la cabeza.\n\nPor qué cantáis la rosa, ¡oh Poetas!\nhacedla florecer en el poema;\nSólo para nosotros\nviven todas las cosas bajo el Sol.\nEl poeta es un pequeño Dios.",
+        "citation": "Vicente Huidobro, El espejo de agua, 1916. Reproducido en el cuadernillo de Lenguaje, 2005-1.",
+        "verse": true
+      }
+    },
+    {
+      "id": "icfes-2005-1-lenguaje-6",
+      "number": 6,
+      "area": "lectura",
+      "discipline": "Lenguaje",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Inventar una naturaleza",
+      "prompt": "Teniendo en cuenta el texto de Huidobro y los conocimientos acerca del Romanticismo, se puede afirmar que los vanguardistas se distinguen de los románticos en cuanto",
+      "options": [
+        "presentan en el poema una copia de la naturaleza.",
+        "hacen del poema una naturaleza inventada.",
+        "muestran el poema como naturaleza muerta.",
+        "plasman en el poema la naturaleza tal cual."
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "En la oposición planteada por este ítem, la propuesta vanguardista del poema consiste en inventar una naturaleza propia. Busca la opción que expresa creación en lugar de copia.",
+      "topic": "Del Sentido del texto  hacia otros textos",
+      "competency": "Propositiva",
+      "source": "archive/2005-1/lenguaje.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 11,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "Arte poética",
+        "body": "Que el verso sea como una llave\nque abra mil puertas.\nUna hoja cae; algo pasa volando;\ncuanto miren los ojos creado sea,\ny el alma del oyente quede temblando.\n\nInventa mundos nuevos y cuida tu palabra;\nel adjetivo, cuando no da vida, mata.\nEstamos en el ciclo de los nervios.\nEl músculo cuelga,\ncomo recuerdo, en los museos;\nMas no por eso tenemos menos fuerza:\nel vigor verdadero reside en la cabeza.\n\nPor qué cantáis la rosa, ¡oh Poetas!\nhacedla florecer en el poema;\nSólo para nosotros\nviven todas las cosas bajo el Sol.\nEl poeta es un pequeño Dios.",
+        "citation": "Vicente Huidobro, El espejo de agua, 1916. Reproducido en el cuadernillo de Lenguaje, 2005-1.",
+        "verse": true
+      }
+    },
+    {
+      "id": "icfes-2005-1-lenguaje-7",
+      "number": 7,
+      "area": "lectura",
+      "discipline": "Lenguaje",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Una ciudad ante el cambio",
+      "prompt": "En el texto El tranvía, el propósito principal es mostrar",
+      "options": [
+        "los beneficios de la energía eléctrica.",
+        "el encanto de los vehículos de tracción animal.",
+        "la reacción popular frente al progreso.",
+        "las tradiciones culturales de la provincia brasileña."
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "El relato se centra en la curiosidad, el temor y las conjeturas de los habitantes ante el tranvía eléctrico. Esas reacciones organizan todo el fragmento.",
+      "topic": "Configuración del sentido global del texto",
+      "competency": "Comprensiva",
+      "source": "archive/2005-1/lenguaje.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 12,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "El tranvía",
+        "body": "Se anunció que São Paulo iba a tener tranvías eléctricos. Los tímidos vehículos tirados por burros, que cortaban la modorra de la ciudad provinciana, iban a desaparecer para siempre. Nunca más veríamos, en la bajada de la ladera de San Antonio, frente a nuestra casa, el tranvía bajar solo, equilibrado por el volante del conductor. Y el par de burros siguiéndolo. Una fiebre de curiosidad tomó las familias, las casas, los grupos. ¿Cómo serían los nuevos tranvías que andaban mágicamente, sin impulso exterior? Yo tenía noticias, por el negrito Lázaro, hijo de la cocinera de mi tía, venida de Río, que era muy peligroso ese asunto de la electricidad. Quien pusiese los pies en las vías se quedaría allí pegado o sería destrozado fatalmente por el tranvía... Un amigo de casa informaba: El tranvía puede andar hasta a velocidades de nueve puntos. Pero ahí se produce una disparada de todos los diablos. Nadie aguanta. ¡Es capaz de saltar de las vías! Y matar a todo el mundo... La ciudad adquirió el aspecto de revolución. Todos se conmovían, intentaban ver. Y los más aventurados querían llegar hasta la temeridad de entrar en el tranvía, ¡hasta andar en el tranvía eléctrico!",
+        "citation": "Oswald de Andrade, fragmento reproducido en el cuadernillo de Lenguaje, 2005-1. Se conserva el lenguaje del documento histórico."
+      }
+    },
+    {
+      "id": "icfes-2005-1-lenguaje-9",
+      "number": 9,
+      "area": "lectura",
+      "discipline": "Lenguaje",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Una expresión en contexto",
+      "prompt": "En la expresión «Los tímidos vehículos tirados por burros, que cortaban la modorra de la ciudad provinciana, iban a desaparecer para siempre», la expresión «cortaban la modorra de la ciudad provinciana» se refiere al",
+      "options": [
+        "tamaño de São Paulo.",
+        "ritmo de vida de São Paulo.",
+        "clima de São Paulo.",
+        "transporte de São Paulo."
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "«Modorra» sugiere quietud y somnolencia. En el contexto describe el ritmo tranquilo de la vida de la ciudad, interrumpido por el paso de los vehículos.",
+      "topic": "Función  semántica de la información local.",
+      "competency": "Comprensiva",
+      "source": "archive/2005-1/lenguaje.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 14,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "El tranvía",
+        "body": "Se anunció que São Paulo iba a tener tranvías eléctricos. Los tímidos vehículos tirados por burros, que cortaban la modorra de la ciudad provinciana, iban a desaparecer para siempre. Nunca más veríamos, en la bajada de la ladera de San Antonio, frente a nuestra casa, el tranvía bajar solo, equilibrado por el volante del conductor. Y el par de burros siguiéndolo. Una fiebre de curiosidad tomó las familias, las casas, los grupos. ¿Cómo serían los nuevos tranvías que andaban mágicamente, sin impulso exterior? Yo tenía noticias, por el negrito Lázaro, hijo de la cocinera de mi tía, venida de Río, que era muy peligroso ese asunto de la electricidad. Quien pusiese los pies en las vías se quedaría allí pegado o sería destrozado fatalmente por el tranvía... Un amigo de casa informaba: El tranvía puede andar hasta a velocidades de nueve puntos. Pero ahí se produce una disparada de todos los diablos. Nadie aguanta. ¡Es capaz de saltar de las vías! Y matar a todo el mundo... La ciudad adquirió el aspecto de revolución. Todos se conmovían, intentaban ver. Y los más aventurados querían llegar hasta la temeridad de entrar en el tranvía, ¡hasta andar en el tranvía eléctrico!",
+        "citation": "Oswald de Andrade, fragmento reproducido en el cuadernillo de Lenguaje, 2005-1. Se conserva el lenguaje del documento histórico."
+      }
+    },
+    {
+      "id": "icfes-2005-1-lenguaje-10",
+      "number": 10,
+      "area": "lectura",
+      "discipline": "Lenguaje",
+      "period": "2005-1",
+      "page": 3,
+      "title": "Interpretar lo desconocido",
+      "prompt": "Partiendo de la pregunta «¿Cómo serían los nuevos tranvías que andaban mágicamente, sin impulso exterior?», podemos decir que en São Paulo la gente asumió la llegada del vehículo con mentalidad",
+      "options": [
+        "científica, porque buscaron explicar racionalmente lo desconocido.",
+        "supersticiosa, porque asignaron valor sobrenatural a lo desconocido.",
+        "poética, porque usaron la imaginación para entender lo desconocido.",
+        "religiosa, porque ubicaron la presencia de Dios en lo desconocido."
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "La palabra «mágicamente» y los temores infundados atribuyen un poder sobrenatural a una tecnología desconocida. El texto no presenta una explicación científica ni una intervención divina.",
+      "topic": "Función  semántica de la información local.",
+      "competency": "Propositiva",
+      "source": "archive/2005-1/lenguaje.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 15,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "El tranvía",
+        "body": "Se anunció que São Paulo iba a tener tranvías eléctricos. Los tímidos vehículos tirados por burros, que cortaban la modorra de la ciudad provinciana, iban a desaparecer para siempre. Nunca más veríamos, en la bajada de la ladera de San Antonio, frente a nuestra casa, el tranvía bajar solo, equilibrado por el volante del conductor. Y el par de burros siguiéndolo. Una fiebre de curiosidad tomó las familias, las casas, los grupos. ¿Cómo serían los nuevos tranvías que andaban mágicamente, sin impulso exterior? Yo tenía noticias, por el negrito Lázaro, hijo de la cocinera de mi tía, venida de Río, que era muy peligroso ese asunto de la electricidad. Quien pusiese los pies en las vías se quedaría allí pegado o sería destrozado fatalmente por el tranvía... Un amigo de casa informaba: El tranvía puede andar hasta a velocidades de nueve puntos. Pero ahí se produce una disparada de todos los diablos. Nadie aguanta. ¡Es capaz de saltar de las vías! Y matar a todo el mundo... La ciudad adquirió el aspecto de revolución. Todos se conmovían, intentaban ver. Y los más aventurados querían llegar hasta la temeridad de entrar en el tranvía, ¡hasta andar en el tranvía eléctrico!",
+        "citation": "Oswald de Andrade, fragmento reproducido en el cuadernillo de Lenguaje, 2005-1. Se conserva el lenguaje del documento histórico."
+      }
+    },
+    {
+      "id": "icfes-2005-1-lenguaje-11",
+      "number": 11,
+      "area": "lectura",
+      "discipline": "Lenguaje",
+      "period": "2005-1",
+      "page": 3,
+      "title": "Inferir a partir del relato",
+      "prompt": "Del texto El tranvía puede inferirse que São Paulo era, en ese entonces, una ciudad",
+      "options": [
+        "premoderna.",
+        "renacentista.",
+        "postmoderna.",
+        "medieval."
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "Según el contraste del relato, la ciudad aún conserva un ritmo provinciano y observa con asombro una innovación moderna. «Premoderna» es la caracterización que recoge ese contraste.",
+      "topic": "Del Sentido del texto  hacia otros textos",
+      "competency": "Propositiva",
+      "source": "archive/2005-1/lenguaje.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 16,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "El tranvía",
+        "body": "Se anunció que São Paulo iba a tener tranvías eléctricos. Los tímidos vehículos tirados por burros, que cortaban la modorra de la ciudad provinciana, iban a desaparecer para siempre. Nunca más veríamos, en la bajada de la ladera de San Antonio, frente a nuestra casa, el tranvía bajar solo, equilibrado por el volante del conductor. Y el par de burros siguiéndolo. Una fiebre de curiosidad tomó las familias, las casas, los grupos. ¿Cómo serían los nuevos tranvías que andaban mágicamente, sin impulso exterior? Yo tenía noticias, por el negrito Lázaro, hijo de la cocinera de mi tía, venida de Río, que era muy peligroso ese asunto de la electricidad. Quien pusiese los pies en las vías se quedaría allí pegado o sería destrozado fatalmente por el tranvía... Un amigo de casa informaba: El tranvía puede andar hasta a velocidades de nueve puntos. Pero ahí se produce una disparada de todos los diablos. Nadie aguanta. ¡Es capaz de saltar de las vías! Y matar a todo el mundo... La ciudad adquirió el aspecto de revolución. Todos se conmovían, intentaban ver. Y los más aventurados querían llegar hasta la temeridad de entrar en el tranvía, ¡hasta andar en el tranvía eléctrico!",
+        "citation": "Oswald de Andrade, fragmento reproducido en el cuadernillo de Lenguaje, 2005-1. Se conserva el lenguaje del documento histórico."
+      }
+    },
+    {
+      "id": "icfes-2005-1-lenguaje-12",
+      "number": 12,
+      "area": "lectura",
+      "discipline": "Lenguaje",
+      "period": "2005-1",
+      "page": 3,
+      "title": "Elegir un titular",
+      "prompt": "Si el anuncio de la llegada del tranvía fuera un artículo periodístico, podría titularse",
+      "options": [
+        "«Llegó el tranvía eléctrico a la ladera de San Antonio».",
+        "«Tranvía eléctrico reemplazará al tranvía de burros».",
+        "«Tranvía de burros será rival del tranvía eléctrico».",
+        "«Así fue el primer día del tranvía eléctrico en São Paulo»."
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "El fragmento anuncia un reemplazo futuro: los tranvías eléctricos sustituirán a los vehículos tirados por burros. La opción B conserva tanto el hecho como su tiempo verbal.",
+      "topic": "Del Sentido del texto  hacia otros textos",
+      "competency": "Propositiva",
+      "source": "archive/2005-1/lenguaje.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 17,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "El tranvía",
+        "body": "Se anunció que São Paulo iba a tener tranvías eléctricos. Los tímidos vehículos tirados por burros, que cortaban la modorra de la ciudad provinciana, iban a desaparecer para siempre. Nunca más veríamos, en la bajada de la ladera de San Antonio, frente a nuestra casa, el tranvía bajar solo, equilibrado por el volante del conductor. Y el par de burros siguiéndolo. Una fiebre de curiosidad tomó las familias, las casas, los grupos. ¿Cómo serían los nuevos tranvías que andaban mágicamente, sin impulso exterior? Yo tenía noticias, por el negrito Lázaro, hijo de la cocinera de mi tía, venida de Río, que era muy peligroso ese asunto de la electricidad. Quien pusiese los pies en las vías se quedaría allí pegado o sería destrozado fatalmente por el tranvía... Un amigo de casa informaba: El tranvía puede andar hasta a velocidades de nueve puntos. Pero ahí se produce una disparada de todos los diablos. Nadie aguanta. ¡Es capaz de saltar de las vías! Y matar a todo el mundo... La ciudad adquirió el aspecto de revolución. Todos se conmovían, intentaban ver. Y los más aventurados querían llegar hasta la temeridad de entrar en el tranvía, ¡hasta andar en el tranvía eléctrico!",
+        "citation": "Oswald de Andrade, fragmento reproducido en el cuadernillo de Lenguaje, 2005-1. Se conserva el lenguaje del documento histórico."
+      }
+    },
+    {
+      "id": "icfes-2005-1-math-13",
+      "number": 13,
+      "area": "matematicas",
+      "discipline": "Matemáticas",
+      "period": "2005-1",
+      "page": 1,
+      "title": "Contar las posibilidades",
+      "prompt": "Federico desea apostar nuevamente utilizando únicamente el dinero que ganó. Si no puede apostar más de una vez a cada trío de dígitos, es correcto afirmar que si invierte los $100.000",
+      "options": [
+        "incrementará sus ganancias.",
+        "existe una posibilidad entre seis de que pierda.",
+        "puede apostar a todos los tríos de dígitos posibles.",
+        "existen cinco posibilidades entre seis de que pierda."
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "Con los diez dígitos hay 10 × 9 × 8 / 6 = 120 tríos distintos sin importar el orden. Puede comprar 100 apuestas. Quedan 20 tríos sin cubrir: 20/120 = 1/6 de probabilidad de perder.",
+      "topic": "Aleatorio",
+      "competency": "Argumentativa",
+      "source": "archive/2005-1/math.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 21,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "La minilotería de Federico",
+        "body": "Federico fue el ganador de $100.000 en una minilotería. Por un costo de $1.000 apostó a tres dígitos diferentes y ganó porque los dígitos que seleccionó coincidieron con los sorteados (no importaba el orden)."
+      }
+    },
+    {
+      "id": "icfes-2005-1-math-14",
+      "number": 14,
+      "area": "matematicas",
+      "discipline": "Matemáticas",
+      "period": "2005-1",
+      "page": 1,
+      "title": "Comparar dos sorteos",
+      "prompt": "Si Federico decide apostar los $100.000 en el chance y le pagan $500 por cada $1 apostado, pero para ganar debe acertar en su orden los tres últimos dígitos de una lotería, es correcto afirmar que",
+      "options": [
+        "si en el chance apuesta $100 a cada trío posible, gana $100.000.",
+        "en el chance para ganar $100.000 tiene que apostar mínimo $200.",
+        "si en la minilotería apuesta $50.000 es seguro que gana $100.000.",
+        "en la minilotería el número de posibles apuestas es menor que en el chance."
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "En la minilotería hay 120 combinaciones de tres dígitos diferentes sin orden. En el chance hay 1.000 secuencias desde 000 hasta 999. Por eso la minilotería ofrece menos apuestas posibles.",
+      "topic": "Aleatorio",
+      "competency": "Argumentativa",
+      "source": "archive/2005-1/math.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 22,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "La minilotería de Federico",
+        "body": "Federico fue el ganador de $100.000 en una minilotería. Por un costo de $1.000 apostó a tres dígitos diferentes y ganó porque los dígitos que seleccionó coincidieron con los sorteados (no importaba el orden)."
+      }
+    },
+    {
+      "id": "icfes-2005-1-math-17",
+      "number": 17,
+      "area": "matematicas",
+      "discipline": "Matemáticas",
+      "period": "2005-1",
+      "page": 1,
+      "title": "Baldosas sin desperdicio",
+      "prompt": "Para cubrir todas las paredes de la piscina con baldosas rectangulares del mismo tamaño y evitar desperdicios de material, debería usarse la baldosa representada en",
+      "options": [
+        "15 cm × 30 cm.",
+        "25 cm × 25 cm.",
+        "20 cm × 30 cm.",
+        "30 cm × 30 cm."
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "Coloca el lado de 30 cm en vertical: 90/30 = 3 filas. El lado de 20 cm cabe un número entero de veces en los dos largos: 300/20 = 15 y 400/20 = 20. Así se cubren todas las paredes sin cortes.",
+      "topic": "Metrico",
+      "competency": "Interpretativa",
+      "source": "archive/2005-1/math.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 25,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "El diseño de una piscina",
+        "body": "Se quiere construir una piscina rectangular para niños de 4 m de largo, 3 m de ancho y 90 cm de profundidad. Las medidas corresponden al dibujo del cuadernillo original."
+      },
+      "image": {
+        "url": "assets/pool.svg",
+        "alt": "Piscina rectangular: largo 4 metros, ancho 3 metros y profundidad 90 centímetros."
+      }
+    },
+    {
+      "id": "icfes-2005-1-math-18",
+      "number": 18,
+      "area": "matematicas",
+      "discipline": "Matemáticas",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Volumen y capacidad",
+      "prompt": "Un instructor sabe que cada niño debe contar como mínimo con 1 m³. Si llegan 30 niños, el instructor deberá trabajar máximo con",
+      "options": [
+        "10 niños al mismo tiempo, dentro de la piscina.",
+        "12 niños al mismo tiempo, dentro de la piscina.",
+        "15 niños al mismo tiempo, dentro de la piscina.",
+        "20 niños al mismo tiempo, dentro de la piscina."
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "Convierte 90 cm a 0,9 m. El volumen es 4 × 3 × 0,9 = 10,8 m³. Con un mínimo de 1 m³ por niño caben 10 niños completos, sin superar la capacidad indicada.",
+      "topic": "Conteo",
+      "competency": "Propositiva",
+      "source": "archive/2005-1/math.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 26,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "El diseño de una piscina",
+        "body": "Se quiere construir una piscina rectangular para niños de 4 m de largo, 3 m de ancho y 90 cm de profundidad. Las medidas corresponden al dibujo del cuadernillo original."
+      },
+      "image": {
+        "url": "assets/pool.svg",
+        "alt": "Piscina de 4 metros por 3 metros y 0,9 metros de profundidad."
+      }
+    },
+    {
+      "id": "icfes-2005-1-math-19",
+      "number": 19,
+      "area": "matematicas",
+      "discipline": "Matemáticas",
+      "period": "2005-1",
+      "page": 2,
+      "title": "La mitad cada semana",
+      "prompt": "Si Camilo guarda el dinero en su casa y gasta cada semana la mitad de lo que le queda, la expresión que representa el dinero que le queda al finalizar la séptima semana es",
+      "options": [
+        "(1/2) × 1.600.000",
+        "(1/2) × 1.600.000 × 7",
+        "(1/2⁶) × 1.600.000",
+        "(1/2⁷) × 1.600.000"
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "Cada semana queda la mitad del saldo anterior. Después de siete semanas el saldo inicial se multiplica por (1/2) siete veces: 1.600.000 / 2⁷ = 12.500.",
+      "topic": "Variacional",
+      "competency": "Interpretativa",
+      "source": "archive/2005-1/math.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 27,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "El dinero de Camilo",
+        "body": "Camilo ganó $1.600.000 en una rifa y no ha decidido si gastar ese dinero o invertirlo en una entidad financiera que paga 10 % de interés anual sobre el dinero que tenga invertido."
+      }
+    },
+    {
+      "id": "icfes-2005-1-math-20",
+      "number": 20,
+      "area": "matematicas",
+      "discipline": "Matemáticas",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Comprender el interés compuesto",
+      "prompt": "Si Camilo invierte todo el dinero y no hace retiros, transcurridos n años la cantidad de dinero que tiene en el banco está representada por",
+      "options": [
+        "1.600.000 × (1/10)ⁿ",
+        "1.600.000 × (11/10)ⁿ",
+        "1.600.000 + n/10",
+        "1.600.000 + 1.600.000 × n/10"
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "Cada año se conserva el capital y se añade un 10 % del saldo: se multiplica por 1,1 = 11/10. Tras n años ese factor aparece elevado a n.",
+      "topic": "Variacional",
+      "competency": "Propositiva",
+      "source": "archive/2005-1/math.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 28,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "El dinero de Camilo",
+        "body": "Camilo ganó $1.600.000 en una rifa y no ha decidido si gastar ese dinero o invertirlo en una entidad financiera que paga 10 % de interés anual sobre el dinero que tenga invertido."
+      }
+    },
+    {
+      "id": "icfes-2005-1-math-21",
+      "number": 21,
+      "area": "matematicas",
+      "discipline": "Matemáticas",
+      "period": "2005-1",
+      "page": 3,
+      "title": "Un procedimiento eficiente",
+      "prompt": "Si el procedimiento debe ser rápido y confiable, ¿cuál escogería?",
+      "options": [
+        "Contar de 1 en 1 hasta llegar a 999.",
+        "Contar de 1 a 9, de 10 a 99 y de 100 a 999 y sumar la cantidad obtenida en cada grupo contado.",
+        "Contar cuántos números hay con 1, 2 y 3 dígitos; multiplicar por 1, 2 y 3 respectivamente y sumar.",
+        "Contar cuántos números hay desde 100 hasta 999, multiplicar por 3 y sumar la cantidad de dígitos de 1 a 99."
+      ],
+      "answers": [
+        "C",
+        "D"
+      ],
+      "explanation": "La clave acepta C y D. Hay 9 números de un dígito, 90 de dos y 900 de tres: 9 + 180 + 2.700 = 2.889. También se puede sumar el dato 189 a 900 × 3.",
+      "topic": "Conteo",
+      "competency": "Interpretativa",
+      "source": "archive/2005-1/math.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 29,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "Contar dígitos, no números",
+        "body": "Un profesor propone contar todos los dígitos escritos en los números de 1 a 999. Por ejemplo, de 8 a 13 hay 10 dígitos: 8, 9, 10, 11, 12 y 13. Da como información que de 1 a 99 hay 189 dígitos.\n\nÍtem histórico tipo X: el documento de claves acepta dos alternativas. Selecciona solo una."
+      }
+    },
+    {
+      "id": "icfes-2005-1-math-22",
+      "number": 22,
+      "area": "matematicas",
+      "discipline": "Matemáticas",
+      "period": "2005-1",
+      "page": 3,
+      "title": "¿Se repite igual cada dígito?",
+      "prompt": "Daniel afirma que cada dígito se repite la misma cantidad de veces en los números de 1 a 999. Su compañero dice que es falso porque",
+      "options": [
+        "los números tienen un orden, pero sus dígitos no pueden repetirse la misma cantidad de veces.",
+        "el conteo se hace desde 1 y no desde cero, teniendo al cero mínimo una vez menos.",
+        "la cantidad de números de 2 dígitos es distinta a la de números de 1 dígito.",
+        "la cantidad de veces que se repite el cero no es la misma que la de los demás dígitos."
+      ],
+      "answers": [
+        "B",
+        "D"
+      ],
+      "explanation": "La clave acepta B y D. Sin escribir ceros a la izquierda, el 0 no aparece en la primera posición de un número. Por eso su frecuencia difiere de la de los dígitos del 1 al 9.",
+      "topic": "Conteo",
+      "competency": "Argumentativa",
+      "source": "archive/2005-1/math.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 30,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "Contar dígitos, no números",
+        "body": "Un profesor propone contar todos los dígitos escritos en los números de 1 a 999. Por ejemplo, de 8 a 13 hay 10 dígitos: 8, 9, 10, 11, 12 y 13. Da como información que de 1 a 99 hay 189 dígitos.\n\nÍtem histórico tipo X: el documento de claves acepta dos alternativas. Selecciona solo una."
+      }
+    },
+    {
+      "id": "icfes-2005-1-math-23",
+      "number": 23,
+      "area": "matematicas",
+      "discipline": "Matemáticas",
+      "period": "2005-1",
+      "page": 3,
+      "title": "El signo y los dígitos",
+      "prompt": "¿Es posible saber cuántos dígitos hay desde −999 hasta −1 conociendo la cantidad que hay de 1 a 999, sin contar de 1 en 1?",
+      "options": [
+        "No, porque el conteo solo es posible de manera ascendente, desde 1 hasta 999.",
+        "Sí, porque aunque esté antecedido por el signo menos no afecta el conteo de dígitos.",
+        "Sí, porque el orden y el signo no se involucran en el conteo: es el mismo número de dígitos.",
+        "No, porque los dígitos son siempre positivos, entonces −1 no es un dígito."
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "La clave acepta B y C. A cada número positivo le corresponde uno negativo con las mismas cifras. El signo menos no es un dígito, de modo que el total de dígitos es igual.",
+      "topic": "Conteo",
+      "competency": "Argumentativa",
+      "source": "archive/2005-1/math.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 31,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "Contar dígitos, no números",
+        "body": "Un profesor propone contar todos los dígitos escritos en los números de 1 a 999. Por ejemplo, de 8 a 13 hay 10 dígitos: 8, 9, 10, 11, 12 y 13. Da como información que de 1 a 99 hay 189 dígitos.\n\nÍtem histórico tipo X: el documento de claves acepta dos alternativas. Selecciona solo una."
+      }
+    },
+    {
+      "id": "icfes-2005-1-math-24",
+      "number": 24,
+      "area": "matematicas",
+      "discipline": "Matemáticas",
+      "period": "2005-1",
+      "page": 3,
+      "title": "Un intervalo de tres cifras",
+      "prompt": "¿Cómo encontrar cuántos dígitos hay de 403 a 702?",
+      "options": [
+        "Escribir los números de 403 a 702 y contar los dígitos de cada uno.",
+        "Restar 402 de 702 y multiplicar el resultado por 3.",
+        "Contar cuántos números hay desde 403 hasta 702 y multiplicar por 3.",
+        "Sumar 702 con 403, multiplicar por 3 y restarlo de los dígitos de 1 a 999."
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "La clave acepta B y C. El intervalo inclusivo contiene 702 − 403 + 1 = 300 números. Todos tienen tres dígitos: 300 × 3 = 900.",
+      "topic": "Conteo",
+      "competency": "Propositiva",
+      "source": "archive/2005-1/math.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 32,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "Contar dígitos, no números",
+        "body": "Un profesor propone contar todos los dígitos escritos en los números de 1 a 999. Por ejemplo, de 8 a 13 hay 10 dígitos: 8, 9, 10, 11, 12 y 13. Da como información que de 1 a 99 hay 189 dígitos.\n\nÍtem histórico tipo X: el documento de claves acepta dos alternativas. Selecciona solo una."
+      }
+    },
+    {
+      "id": "icfes-2005-1-biologia-26",
+      "number": 26,
+      "area": "ciencias",
+      "discipline": "Biología",
+      "period": "2005-1",
+      "page": 1,
+      "title": "El recorrido de una proteína",
+      "prompt": "En una célula animal participan: 1. Retículo endoplásmico rugoso; 2. Ribosoma; 3. Aparato de Golgi; 4. Membrana celular; 5. ARN; 6. ADN. Para producir y secretar una proteína, la secuencia correcta es",
+      "options": [
+        "6, 5, 2, 3, 1, 4",
+        "6, 5, 1, 2, 3, 4",
+        "6, 5, 2, 1, 3, 4",
+        "6, 5, 3, 2, 1, 4"
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "La información del ADN pasa al ARN. Los ribosomas traducen la proteína, que sigue la vía del retículo endoplásmico rugoso y del Golgi hasta liberarse por la membrana celular.",
+      "topic": "Celular",
+      "competency": "Establecer Condiciones",
+      "source": "archive/2005-1/biologia.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 38,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-biologia-27",
+      "number": 27,
+      "area": "ciencias",
+      "discipline": "Biología",
+      "period": "2005-1",
+      "page": 1,
+      "title": "La comunicación entre neuronas",
+      "prompt": "Un neurotransmisor producido por una neurona altera la actividad de otra célula mediante receptores de membrana específicos. Su función puede verse alterada cuando",
+      "options": [
+        "la neurona presináptica no tiene receptores para un neurotransmisor producido por la postsináptica.",
+        "la neurona postsináptica tiene mayor variedad de proteínas de membrana que la presináptica.",
+        "la neurona presináptica produce neurotransmisores que no interactúan químicamente con las proteínas de membrana de la postsináptica.",
+        "la neurona postsináptica y la presináptica tienen el mismo tipo de receptores de membrana."
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "Para transmitir la señal, el neurotransmisor debe unirse a su receptor en la célula postsináptica. Sin esa interacción específica, la señal no produce el efecto esperado.",
+      "topic": "Celular",
+      "competency": "Establecer Condiciones",
+      "source": "archive/2005-1/biologia.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 39,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-biologia-29",
+      "number": 29,
+      "area": "ciencias",
+      "discipline": "Biología",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Regular la acidez digestiva",
+      "prompt": "La gastrina estimula ácido clorhídrico en el estómago y la secretina estimula bicarbonato del páncreas, que neutraliza el ácido en el duodeno. Si el pH del duodeno es 2,5, se esperaría una respuesta de",
+      "options": [
+        "disminuir la gastrina y la secretina.",
+        "elevar la gastrina y disminuir la secretina.",
+        "elevar la gastrina y la secretina.",
+        "disminuir la gastrina y aumentar la secretina."
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "Un pH de 2,5 indica un medio muy ácido. La respuesta descrita en el problema requiere reducir la estimulación del ácido y aumentar el bicarbonato que lo neutraliza.",
+      "topic": "Organismico",
+      "competency": "Plantear Hipótesis",
+      "source": "archive/2005-1/biologia.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 41,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-biologia-30",
+      "number": 30,
+      "area": "ciencias",
+      "discipline": "Biología",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Identificar una variable clave",
+      "prompt": "Según estos resultados, el elemento más importante para el crecimiento de esta planta es el",
+      "options": [
+        "magnesio.",
+        "azufre.",
+        "manganeso.",
+        "zinc."
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "En esta experiencia, la planta sin magnesio tiene el menor peso final: 3,7 g. Su ausencia se asocia con la mayor reducción del crecimiento entre los tratamientos comparados. La conclusión se limita a estos datos.",
+      "topic": "Organismico",
+      "competency": "Interpretar situaciones",
+      "source": "archive/2005-1/biologia.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 42,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "Nutrición y crecimiento",
+        "body": "Un investigador siembra siete plántulas de la misma especie y peso inicial similar. Una recibe nutrientes completos y las otras carecen de uno. Después de unas semanas se mide el peso final."
+      },
+      "table": {
+        "headers": [
+          "Tratamiento",
+          "Peso final (g)"
+        ],
+        "rows": [
+          [
+            "Completo",
+            "6,2"
+          ],
+          [
+            "Sin azufre",
+            "6,1"
+          ],
+          [
+            "Sin zinc",
+            "7,3"
+          ],
+          [
+            "Sin magnesio",
+            "3,7"
+          ],
+          [
+            "Sin aluminio",
+            "5,8"
+          ],
+          [
+            "Sin manganeso",
+            "4,2"
+          ],
+          [
+            "Sin potasio",
+            "3,9"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "icfes-2005-1-biologia-31",
+      "number": 31,
+      "area": "ciencias",
+      "discipline": "Biología",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Proponer una hipótesis",
+      "prompt": "Una solución completa no garantiza el mayor crecimiento observado. De acuerdo con los datos, se podría proponer que",
+      "options": [
+        "la solución completa carece de otros nutrientes fundamentales.",
+        "el potasio hace que la planta crezca más rápido.",
+        "el zinc inhibe el crecimiento de la planta.",
+        "el manganeso podría excluirse de la solución completa."
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "La planta sin zinc llega a 7,3 g, frente a 6,2 g con solución completa. Los datos apoyan como hipótesis que, en estas condiciones, el zinc inhibe el crecimiento; no demuestran que ocurra en todas las plantas.",
+      "topic": "Organismico",
+      "competency": "Interpretar situaciones",
+      "source": "archive/2005-1/biologia.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 43,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "Nutrición y crecimiento",
+        "body": "Un investigador siembra siete plántulas de la misma especie y peso inicial similar. Una recibe nutrientes completos y las otras carecen de uno. Después de unas semanas se mide el peso final."
+      },
+      "table": {
+        "headers": [
+          "Tratamiento",
+          "Peso final (g)"
+        ],
+        "rows": [
+          [
+            "Completo",
+            "6,2"
+          ],
+          [
+            "Sin azufre",
+            "6,1"
+          ],
+          [
+            "Sin zinc",
+            "7,3"
+          ],
+          [
+            "Sin magnesio",
+            "3,7"
+          ],
+          [
+            "Sin aluminio",
+            "5,8"
+          ],
+          [
+            "Sin manganeso",
+            "4,2"
+          ],
+          [
+            "Sin potasio",
+            "3,9"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "icfes-2005-1-biologia-33",
+      "number": 33,
+      "area": "ciencias",
+      "discipline": "Biología",
+      "period": "2005-1",
+      "page": 3,
+      "title": "Interrumpir la especiación",
+      "prompt": "Una barrera geográfica dividió una población de iguanas hace cientos de años. Siguen siendo la misma especie, aunque han surgido diferencias morfológicas. Para evitar que avance la especiación, es necesario que entre ellas se",
+      "options": [
+        "establezca competencia por el espacio.",
+        "promueva el intercambio de genes por reproducción.",
+        "desarrolle cooperación para adquirir alimento.",
+        "lleve a cabo depredación por sobrepoblación."
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "La reproducción entre ambas poblaciones restablece el flujo génico. Ese intercambio contrarresta la divergencia genética causada por su aislamiento.",
+      "topic": "Ecosistémico",
+      "competency": "Plantear Hipótesis",
+      "source": "archive/2005-1/biologia.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 45,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-quimica-38",
+      "number": 38,
+      "area": "ciencias",
+      "discipline": "Química",
+      "period": "2005-1",
+      "page": 1,
+      "title": "Estructura y ebullición",
+      "prompt": "La tabla muestra tres compuestos orgánicos. A partir de estos datos es válido afirmar que",
+      "options": [
+        "el punto de ebullición solo depende del número de carbonos.",
+        "a mayor número de ramificaciones menor es el punto de ebullición.",
+        "el punto de ebullición de los isómeros de un alcano es el mismo.",
+        "a mayor número de ramificaciones mayor es el punto de ebullición."
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "Los tres compuestos son isómeros con cinco carbonos. En la tabla, la temperatura disminuye desde 36,5 °C hasta 9,8 °C al aumentar la ramificación. Compara primero las estructuras y luego la tendencia.",
+      "topic": "Aspectos analíticos de sustancias",
+      "competency": "Plantear hipótesis",
+      "source": "archive/2005-1/quimica.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 53,
+      "keySheet": "Núcleo Común",
+      "table": {
+        "headers": [
+          "Compuesto",
+          "Ebullición (°C)"
+        ],
+        "rows": [
+          [
+            "n-pentano",
+            "36,5"
+          ],
+          [
+            "2-metilbutano",
+            "27,85"
+          ],
+          [
+            "2,2-dimetilpropano",
+            "9,8"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "icfes-2005-1-quimica-40",
+      "number": 40,
+      "area": "ciencias",
+      "discipline": "Química",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Comparar la presión de vapor",
+      "prompt": "Según los datos, a 25 °C el líquido con mayor presión de vapor es el",
+      "options": [
+        "agua.",
+        "éter etílico.",
+        "metanol.",
+        "benceno."
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "Entre estos líquidos, el de menor punto de ebullición es el más volátil y tiene mayor presión de vapor a 25 °C. El éter etílico hierve a 34,5 °C.",
+      "topic": "Aspectos fisicoquímicos de sustancias",
+      "competency": "Establecer condiciones",
+      "source": "archive/2005-1/quimica.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 55,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "Cuatro líquidos a 1 atm",
+        "body": "La tabla presenta las temperaturas de ebullición a una atmósfera de presión."
+      },
+      "table": {
+        "headers": [
+          "Líquido",
+          "Ebullición (°C)"
+        ],
+        "rows": [
+          [
+            "Agua",
+            "100"
+          ],
+          [
+            "Éter etílico",
+            "34,5"
+          ],
+          [
+            "Metanol",
+            "65"
+          ],
+          [
+            "Benceno",
+            "80,1"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "icfes-2005-1-quimica-41",
+      "number": 41,
+      "area": "ciencias",
+      "discipline": "Química",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Predecir el estado físico",
+      "prompt": "A 70 °C y 1 atm, las sustancias que permanecen en estado líquido son",
+      "options": [
+        "metanol y agua.",
+        "benceno y éter etílico.",
+        "benceno y agua.",
+        "metanol y éter etílico."
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "70 °C está por debajo de los puntos de ebullición del benceno (80,1 °C) y el agua (100 °C). En cambio, supera los del metanol y del éter etílico.",
+      "topic": "Aspectos fisicoquímicos de sustancias",
+      "competency": "Plantear hipótesis",
+      "source": "archive/2005-1/quimica.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 56,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "Cuatro líquidos a 1 atm",
+        "body": "La tabla presenta las temperaturas de ebullición a una atmósfera de presión."
+      },
+      "table": {
+        "headers": [
+          "Líquido",
+          "Ebullición (°C)"
+        ],
+        "rows": [
+          [
+            "Agua",
+            "100"
+          ],
+          [
+            "Éter etílico",
+            "34,5"
+          ],
+          [
+            "Metanol",
+            "65"
+          ],
+          [
+            "Benceno",
+            "80,1"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "icfes-2005-1-quimica-42",
+      "number": 42,
+      "area": "ciencias",
+      "discipline": "Química",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Leer una concentración",
+      "prompt": "La etiqueta de un vinagre dice «solución de ácido acético al 4 % en peso». Esto indica que contiene",
+      "options": [
+        "4 g de ácido acético en 96 g de solución.",
+        "100 g de soluto y 4 g de ácido acético.",
+        "100 g de solvente y 4 g de ácido acético.",
+        "4 g de ácido acético en 100 g de solución."
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "El porcentaje en masa es masa de soluto / masa de solución × 100. Por tanto, el 4 % corresponde a 4 g de ácido acético por cada 100 g de solución total.",
+      "topic": "Aspectos analíticos de mezclas",
+      "competency": "Establecer condiciones",
+      "source": "archive/2005-1/quimica.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 57,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-quimica-46",
+      "number": 46,
+      "area": "ciencias",
+      "discipline": "Química",
+      "period": "2005-1",
+      "page": 3,
+      "title": "Lluvia ácida y pH",
+      "prompt": "Un tanque contiene agua de pH 7. Cae una cantidad de lluvia ácida que modifica su pH. El pH de la solución resultante",
+      "options": [
+        "aumenta, porque aumenta [H⁺].",
+        "aumenta, porque disminuye [H⁺].",
+        "disminuye, porque aumenta [H⁺].",
+        "disminuye, porque disminuye [H⁺]."
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "El pH se relaciona inversamente con la concentración de iones hidrógeno: pH = −log₁₀[H⁺]. Al aportar ácido aumenta [H⁺] y disminuye el pH.",
+      "topic": "Aspectos fisicoquímicos de mezclas",
+      "competency": "Plantear hipótesis",
+      "source": "archive/2005-1/quimica.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 61,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-quimica-48",
+      "number": 48,
+      "area": "ciencias",
+      "discipline": "Química",
+      "period": "2005-1",
+      "page": 3,
+      "title": "Añadir una base fuerte",
+      "prompt": "Se tienen 1.000 ml de una solución 0,5 M de KOH con pH 13,7. Si se adiciona 1 mol de KOH, es muy probable que",
+      "options": [
+        "permanezca constante la concentración.",
+        "aumente la concentración de iones [OH⁻].",
+        "permanezca constante el pH.",
+        "aumente la concentración de iones [H⁺]."
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "El KOH es una base fuerte y aporta iones OH⁻ al disolverse. Añadirlo a la solución, en las condiciones del enunciado, aumenta la concentración de esos iones.",
+      "topic": "Aspectos fisicoquímicos de mezclas",
+      "competency": "Plantear hipótesis",
+      "source": "archive/2005-1/quimica.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 63,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-fisica-54",
+      "number": 54,
+      "area": "ciencias",
+      "discipline": "Física",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Ebullición y cantidad de agua",
+      "prompt": "A recipientes iguales con 1, 2 y 3 litros de agua se les suministra calor hasta hervir. La temperatura de ebullición es",
+      "options": [
+        "igual en los tres recipientes.",
+        "mayor en el de 1 litro.",
+        "mayor en el de 3 litros.",
+        "menor en el de 3 litros."
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "Para la misma sustancia y presión, la temperatura de ebullición no depende de la cantidad de agua. Una mayor cantidad requiere más energía, pero no una temperatura de ebullición mayor.",
+      "topic": "Termodinámica",
+      "competency": "Establecer Condiciones",
+      "source": "archive/2005-1/fisica.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 72,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-fisica-55",
+      "number": 55,
+      "area": "ciencias",
+      "discipline": "Física",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Energía para calentar agua",
+      "prompt": "Tres recipientes iguales contienen 1, 2 y 3 litros de agua a la misma temperatura inicial. El calor absorbido hasta alcanzar la ebullición es",
+      "options": [
+        "el mismo en los tres recipientes.",
+        "dependiente del volumen de agua e independiente de la temperatura inicial.",
+        "dependiente del volumen de agua y de la temperatura inicial.",
+        "directamente proporcional al volumen del recipiente."
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "Antes de hervir, Q = m c ΔT. La masa depende del volumen de agua y ΔT depende de la temperatura inicial. El volumen del recipiente no determina por sí solo el calor necesario.",
+      "topic": "Termodinámica",
+      "competency": "Plantear Hipótesis.",
+      "source": "archive/2005-1/fisica.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 73,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-fisica-56",
+      "number": 56,
+      "area": "ciencias",
+      "discipline": "Física",
+      "period": "2005-1",
+      "page": 3,
+      "title": "Frecuencia y número de ondas",
+      "prompt": "Un flautista toca durante 5 segundos una nota cuya frecuencia es 55 Hz. El número de longitudes de onda que emite en ese tiempo es",
+      "options": [
+        "275",
+        "11",
+        "66",
+        "30"
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "Una frecuencia de 55 Hz representa 55 ciclos por segundo. En 5 segundos se emiten 55 × 5 = 275 ciclos completos.",
+      "topic": "Eventos Ondulatorios",
+      "competency": "Establecer Condiciones",
+      "source": "archive/2005-1/fisica.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 74,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-fisica-57",
+      "number": 57,
+      "area": "ciencias",
+      "discipline": "Física",
+      "period": "2005-1",
+      "page": 3,
+      "title": "Contar frentes de onda",
+      "prompt": "0,2 s después de arrojar la primera esfera, la cantidad de frentes de onda que observa es",
+      "options": [
+        "0",
+        "2",
+        "10",
+        "0,1"
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "El modelo del ítem da una frecuencia de 20/2 = 10 frentes por segundo. En 0,2 segundos se producen 10 × 0,2 = 2 frentes de onda.",
+      "topic": "Eventos Ondulatorios",
+      "competency": "Plantear Hipótesis.",
+      "source": "archive/2005-1/fisica.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 75,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "Ondas en una piscina",
+        "body": "Una persona deja caer esferas periódicamente sobre un punto de la superficie de una piscina. Después de 2 s se han formado 20 frentes de onda y su rapidez de avance es de 10 m/s."
+      }
+    },
+    {
+      "id": "icfes-2005-1-fisica-58",
+      "number": 58,
+      "area": "ciencias",
+      "discipline": "Física",
+      "period": "2005-1",
+      "page": 3,
+      "title": "Calcular una longitud de onda",
+      "prompt": "La longitud de onda de estas perturbaciones es",
+      "options": [
+        "100 m.",
+        "20 m.",
+        "5 m.",
+        "1 m."
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "La frecuencia es 10 Hz y la rapidez 10 m/s. Con v = λ f, la longitud de onda es λ = 10/10 = 1 m.",
+      "topic": "Eventos Ondulatorios",
+      "competency": "Establecer Condiciones",
+      "source": "archive/2005-1/fisica.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 76,
+      "keySheet": "Núcleo Común",
+      "context": {
+        "title": "Ondas en una piscina",
+        "body": "Una persona deja caer esferas periódicamente sobre un punto de la superficie de una piscina. Después de 2 s se han formado 20 frentes de onda y su rapidez de avance es de 10 m/s."
+      }
+    },
+    {
+      "id": "icfes-2005-1-fisica-59",
+      "number": 59,
+      "area": "ciencias",
+      "discipline": "Física",
+      "period": "2005-1",
+      "page": 3,
+      "title": "¿Qué expresa un voltaje?",
+      "prompt": "Una pila indica 1,5 voltios. Si 1 voltio = 1 joule/coulomb, 1,5 voltios significa que",
+      "options": [
+        "la energía por unidad de carga es 1,5 joules.",
+        "la energía total acumulada en la pila es 1,5 joules.",
+        "la energía máxima que puede proporcionar la pila es 1,5 joules.",
+        "la energía por electrón es 1,5 joules."
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "El voltaje expresa energía transferida por carga: 1,5 J por cada coulomb. La opción A es la clave del cuadernillo; «unidad de carga» se interpreta como un coulomb, no un electrón.",
+      "topic": "Electromagnetismo",
+      "competency": "Establecer Condiciones",
+      "source": "archive/2005-1/fisica.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 77,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-fisica-60",
+      "number": 60,
+      "area": "ciencias",
+      "discipline": "Física",
+      "period": "2005-1",
+      "page": 3,
+      "title": "Un circuito interrumpido",
+      "prompt": "En un circuito en serie de tres bombillos, uno se funde. La corriente en los otros dos",
+      "options": [
+        "aumenta, porque disminuye la resistencia.",
+        "disminuye, porque parte de la corriente se pierde donde se fundió el bombillo.",
+        "permanece igual, porque no depende de la resistencia.",
+        "es nula, porque la corriente no circula."
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "Un circuito en serie tiene un único camino para la corriente. Si el filamento de un bombillo se rompe, abre ese camino y deja de circular corriente por todos.",
+      "topic": "Electromagnetismo",
+      "competency": "Plantear Hipótesis.",
+      "source": "archive/2005-1/fisica.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 78,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-historia-61",
+      "number": 61,
+      "area": "sociales",
+      "discipline": "Historia",
+      "period": "2005-1",
+      "page": 1,
+      "title": "Una tradición religiosa",
+      "prompt": "La Santería se constituyó en una religión ampliamente practicada en Cuba, especialmente después del triunfo de la Revolución. Reúne creencias africanas con santos y ritos católicos. Según el planteamiento histórico del ítem, su predominio se explica porque",
+      "options": [
+        "las prácticas tradicionales africanas se vieron liberadas de la presión católica.",
+        "la revolución impulsó las creencias populares contra el credo católico.",
+        "la revolución cubana prohibió la existencia de instituciones religiosas.",
+        "la Iglesia católica impulsó desde la colonia el sincretismo religioso."
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "La clave A se centra en un cambio de las condiciones para practicar tradiciones africanas. El ítem no permite deducir una prohibición total de instituciones religiosas. La formulación se conserva como ejercicio histórico, no como diagnóstico religioso actual.",
+      "topic": "Cultural",
+      "competency": "Argumentativa",
+      "source": "archive/2005-1/historia.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 82,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-historia-62",
+      "number": 62,
+      "area": "sociales",
+      "discipline": "Historia",
+      "period": "2005-1",
+      "page": 1,
+      "title": "Unificar el poder político",
+      "prompt": "En Mesopotamia se desarrollaron ciudades como Ur y Uruk. Al unificarse políticamente y concentrar el poder en un rey, se posibilita",
+      "options": [
+        "una organización política homogénea para las dos ciudades.",
+        "concentrar en una ciudad todas las labores administrativas.",
+        "administrar justicia según los deseos del monarca.",
+        "concentrar en la familia real los poderes político, religioso y administrativo."
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "Compartir una autoridad política hace posible una organización común. Las demás opciones agregan consecuencias específicas que no se desprenden necesariamente de la unificación.",
+      "topic": "Social",
+      "competency": "Interpretativa",
+      "source": "archive/2005-1/historia.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 83,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-historia-63",
+      "number": 63,
+      "area": "sociales",
+      "discipline": "Historia",
+      "period": "2005-1",
+      "page": 1,
+      "title": "Ejércitos tras la independencia",
+      "prompt": "Los ejércitos sirven para defensa y ataque y requieren mando, organización y disciplina. Tras la independencia de España, las antiguas colonias necesitaron ejércitos especialmente para",
+      "options": [
+        "contrarrestar el predominio militar de Estados Unidos.",
+        "rechazar ataques de piratas en el Caribe.",
+        "repeler un posible ataque español para recuperar las colonias.",
+        "garantizar la soberanía y autonomía territorial, en el interior y en las fronteras."
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "La soberanía y la autonomía abarcan la defensa frente a amenazas externas y el control del territorio. La opción D expresa una función más completa que una amenaza particular.",
+      "topic": "Político",
+      "competency": "Interpretativa",
+      "source": "archive/2005-1/historia.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 84,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-historia-64",
+      "number": 64,
+      "area": "sociales",
+      "discipline": "Historia",
+      "period": "2005-1",
+      "page": 1,
+      "title": "El alcance de la industrialización",
+      "prompt": "La Revolución Industrial reorganizó el trabajo, concentró trabajadores en fábricas, introdujo tecnologías y usó el ferrocarril para agilizar el comercio. De esto se infiere que",
+      "options": [
+        "generó nuevas clases sociales como burguesía y proletariado.",
+        "limitó la economía a bienes manufacturados.",
+        "acabó definitivamente con las formas tradicionales de producción.",
+        "transformó la economía desde la producción hasta la circulación de bienes."
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "El enunciado incluye cambios en las fábricas y en el transporte comercial. La opción D reúne ambas dimensiones: producir bienes y hacerlos circular.",
+      "topic": "Político",
+      "competency": "Propositiva",
+      "source": "archive/2005-1/historia.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 85,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-historia-65",
+      "number": 65,
+      "area": "sociales",
+      "discipline": "Historia",
+      "period": "2005-1",
+      "page": 1,
+      "title": "Interpretar una relación económica",
+      "prompt": "En los años setenta, la caída de exportaciones redujo el ingreso de dólares en Latinoamérica. Colombia, Bolivia y Perú se vieron menos afectados por ingresos del narcotráfico. Según ese análisis, el menor impacto se explica porque",
+      "options": [
+        "la expansión cafetera colombiana estimuló el ingreso ilegal de dólares.",
+        "los ingresos del narcotráfico compensaron pérdidas de otros sectores.",
+        "la inflación estadounidense afectó la balanza comercial de Latinoamérica.",
+        "todas las transacciones del narcotráfico se hacen en dólares."
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "La relación propuesta es de compensación: una fuente adicional de divisas reduce parcialmente el efecto de pérdidas en otras actividades. No supone aprobar ni minimizar los daños del narcotráfico.",
+      "topic": "Económico",
+      "competency": "Interpretativa",
+      "source": "archive/2005-1/historia.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 86,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-historia-66",
+      "number": 66,
+      "area": "sociales",
+      "discipline": "Historia",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Distinguir criterios de desigualdad",
+      "prompt": "En la colonia, el prestigio social se relacionaba con el origen familiar y el color de piel. ¿Qué decisión NO obedece a un criterio de diferenciación racial?",
+      "options": [
+        "Un criollo es nombrado en un alto cargo de la audiencia.",
+        "Un blanco pobre solicita beca para estudiar en el principal colegio.",
+        "Se funda una universidad para indígenas con apoyo de la Corona.",
+        "Un aspirante a profesor es rechazado por su origen mestizo."
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "La solicitud de beca se explica por la condición económica, expresada en «pobre». Las otras situaciones sí aluden al origen racial o a instituciones diferenciadas por ese criterio.",
+      "topic": "Económico",
+      "competency": "Argumentativa",
+      "source": "archive/2005-1/historia.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 87,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-historia-67",
+      "number": 67,
+      "area": "sociales",
+      "discipline": "Historia",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Normas y control social",
+      "prompt": "En la sociedad colonial, el matrimonio y las «buenas costumbres» promovían autocontrol y vigilancia de las relaciones de otras personas. Este comportamiento evidencia",
+      "options": [
+        "el afán judicial de mantener el orden.",
+        "que las uniones prohibidas generan permisividad clandestina.",
+        "la necesidad de la Iglesia de perseguir esposos infieles.",
+        "que una sociedad estática crea una reglamentación social conservadora."
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "La vigilancia colectiva de costumbres y relaciones protege el orden social establecido. La clave D interpreta el conjunto como una reglamentación conservadora de la vida social.",
+      "topic": "Social",
+      "competency": "Argumentativa",
+      "source": "archive/2005-1/historia.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 88,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-historia-68",
+      "number": 68,
+      "area": "sociales",
+      "discipline": "Historia",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Una causa de la independencia",
+      "prompt": "Germán Arciniegas plantea que los cabildos de 1810 surgieron de protestas populares y que sus líderes estaban influidos por la Ilustración y el Romanticismo. La causa principal de este proceso se encuentra en",
+      "options": [
+        "el sistema colonial, que había creado profundas rupturas sociales e inconformismo.",
+        "las ideas ilustradas que ofrecían modelos militares europeos.",
+        "la mala administración de funcionarios de la Corona.",
+        "la gran cantidad de impuestos exigidos por España."
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "La opción A relaciona el sistema colonial con un malestar social amplio. La administración y los impuestos pueden contribuir, pero son causas más parciales que la estructura descrita.",
+      "topic": "Político",
+      "competency": "Argumentativa",
+      "source": "archive/2005-1/historia.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 89,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-historia-69",
+      "number": 69,
+      "area": "sociales",
+      "discipline": "Historia",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Inversión y desigualdad regional",
+      "prompt": "La industrialización europea impulsó inversiones en regiones latinoamericanas productoras de materias primas. Algunas crecieron y otras quedaron marginadas porque",
+      "options": [
+        "la élite terrateniente se negó a invertir por afecto a la tierra.",
+        "la tecnología de comunicaciones impedía crear cualquier red vial amplia.",
+        "faltaban infraestructura de comunicaciones y voluntad política para distribuir los beneficios.",
+        "los grandes agricultores no querían participar en actividades industriales."
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "La opción C combina una barrera material y una decisión política para explicar por qué los beneficios se concentran. Evita atribuir todo el proceso a una sola motivación personal.",
+      "topic": "Económico",
+      "competency": "Propositiva",
+      "source": "archive/2005-1/historia.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 90,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-historia-70",
+      "number": 70,
+      "area": "sociales",
+      "discipline": "Historia",
+      "period": "2005-1",
+      "page": 3,
+      "title": "Leer una imagen del cambio urbano",
+      "prompt": "Un sacerdote siux llamado Babeagua soñó que seres extraños tejían una telaraña alrededor de su pueblo y lo encerrarían en casas grises sobre tierra estéril. Según el ítem, la historia muestra que",
+      "options": [
+        "la imagen se acercó a efectos posteriores del desarrollo urbano moderno.",
+        "los siux construyeron viviendas grandes y coloridas.",
+        "el sacerdote aceptó la superioridad de los blancos.",
+        "el sueño probó poderes de clarividencia por ser sacerdote."
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "La clave A interpreta la telaraña y las casas como una imagen de la expansión urbana y sus efectos. El relato no demuestra superioridad de un grupo ni capacidades sobrenaturales.",
+      "topic": "Social",
+      "competency": "Propositiva",
+      "source": "archive/2005-1/historia.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 91,
+      "keySheet": "Núcleo Común"
+    },
+    {
+      "id": "icfes-2005-1-ingles-98",
+      "number": 98,
+      "area": "ingles",
+      "discipline": "Inglés",
+      "period": "2005-1",
+      "page": 1,
+      "title": "Talking about the past",
+      "prompt": "Two friends were talking about a picnic they had two days before. One of them said to the other:",
+      "options": [
+        "See? I tell you it was going to be fun.",
+        "See? I told you it is going to be fun.",
+        "See? I told you it was going to be fun.",
+        "See? I tell you it is going to be fun."
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "La conversación recuerda una predicción pasada sobre un evento que ya ocurrió. «I told you» y «was going to» mantienen esa referencia temporal en el pasado.",
+      "topic": "Construcción de oraciones",
+      "competency": "Gramatical",
+      "source": "archive/2005-1/ingles.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 6,
+      "keySheet": "Idiomas"
+    },
+    {
+      "id": "icfes-2005-1-ingles-105",
+      "number": 105,
+      "area": "ingles",
+      "discipline": "Inglés",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Sequencing a story",
+      "prompt": "Choose the word that correctly completes blank (105).",
+      "options": [
+        "When",
+        "Before",
+        "First",
+        "Thus"
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "«First» introduce la primera acción de una secuencia. Más adelante «Then» presenta el paso siguiente.",
+      "topic": "Organización de párrafos",
+      "competency": "Textual",
+      "source": "archive/2005-1/ingles.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 9,
+      "keySheet": "Idiomas",
+      "context": {
+        "title": "Complete the story · 105–107",
+        "body": "Patrick and Pauline Peters got married six months ago and they are already famous for their fights. Mrs. White, who lives opposite, says: “(105) ____ I asked them nicely to stop fighting because my baby couldn’t get to sleep, but they didn’t. Then my husband knocked at their door and told them to stop. They threw a chair at him. (106) ____, we decided to call the police. Mr. and Mrs. Peters admitted to the police (107) ____ they had been arguing. However, they denied having thrown the chair.”"
+      }
+    },
+    {
+      "id": "icfes-2005-1-ingles-106",
+      "number": 106,
+      "area": "ingles",
+      "discipline": "Inglés",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Connecting a consequence",
+      "prompt": "Choose the expression that correctly completes blank (106).",
+      "options": [
+        "Therefore",
+        "In this respect",
+        "In the same way",
+        "Besides"
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "Llamar a la policía es una consecuencia del episodio anterior. «Therefore» significa «por lo tanto» y establece esa relación.",
+      "topic": "Organización de párrafos",
+      "competency": "Textual",
+      "source": "archive/2005-1/ingles.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 10,
+      "keySheet": "Idiomas",
+      "context": {
+        "title": "Complete the story · 105–107",
+        "body": "Patrick and Pauline Peters got married six months ago and they are already famous for their fights. Mrs. White, who lives opposite, says: “(105) ____ I asked them nicely to stop fighting because my baby couldn’t get to sleep, but they didn’t. Then my husband knocked at their door and told them to stop. They threw a chair at him. (106) ____, we decided to call the police. Mr. and Mrs. Peters admitted to the police (107) ____ they had been arguing. However, they denied having thrown the chair.”"
+      }
+    },
+    {
+      "id": "icfes-2005-1-ingles-107",
+      "number": 107,
+      "area": "ingles",
+      "discipline": "Inglés",
+      "period": "2005-1",
+      "page": 2,
+      "title": "Introducing a reported statement",
+      "prompt": "Choose the word that correctly completes blank (107).",
+      "options": [
+        "which",
+        "how",
+        "what",
+        "that"
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "«Admitted ... that they had been arguing» introduce lo que la pareja reconoció. «That» funciona como conjunción para la afirmación reportada.",
+      "topic": "Organización de párrafos",
+      "competency": "Textual",
+      "source": "archive/2005-1/ingles.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 11,
+      "keySheet": "Idiomas",
+      "context": {
+        "title": "Complete the story · 105–107",
+        "body": "Patrick and Pauline Peters got married six months ago and they are already famous for their fights. Mrs. White, who lives opposite, says: “(105) ____ I asked them nicely to stop fighting because my baby couldn’t get to sleep, but they didn’t. Then my husband knocked at their door and told them to stop. They threw a chair at him. (106) ____, we decided to call the police. Mr. and Mrs. Peters admitted to the police (107) ____ they had been arguing. However, they denied having thrown the chair.”"
+      }
+    },
+    {
+      "id": "icfes-2005-1-ingles-109",
+      "number": 109,
+      "area": "ingles",
+      "discipline": "Inglés",
+      "period": "2005-1",
+      "page": 3,
+      "title": "Putting a paragraph in order",
+      "prompt": "Karen writes about the Browns, her host family. Put these segments in order:\n1. but it isn’t easy to understand them!\n2. Mr. and Mrs. Brown have three children.\n3. My new address is at the top of the letter. I’m with an English family, the Browns.\n4. Thomas is fourteen, Catherine is twelve, and Andrew is seven. They are very friendly,",
+      "options": [
+        "3, 4, 2, 1",
+        "4, 2, 3, 1",
+        "3, 2, 4, 1",
+        "4, 3, 2, 1"
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "Primero se presenta a la familia (3), después a sus tres hijos (2), luego sus nombres y edades (4). La conjunción «but» completa la última idea con el segmento 1.",
+      "topic": "Organización de párrafos",
+      "competency": "Textual",
+      "source": "archive/2005-1/ingles.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 12,
+      "keySheet": "Idiomas"
+    },
+    {
+      "id": "icfes-2005-1-ingles-110",
+      "number": 110,
+      "area": "ingles",
+      "discipline": "Inglés",
+      "period": "2005-1",
+      "page": 3,
+      "title": "Offering help",
+      "prompt": "A relative arrives. Diane says, “What a nice surprise! Please come in.” The relative says, “Thank you.” Diane asks: ____ The relative answers, “Please! They are very heavy.”",
+      "options": [
+        "Can I help you with your suitcases?",
+        "Must I help you with your suitcases?",
+        "Should I help you with your suitcases?",
+        "Do I have to help you with your suitcases?"
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "«Can I help you ...?» ofrece ayuda de manera natural. La respuesta sobre el peso de las maletas acepta esa oferta; no se trata de preguntar por una obligación.",
+      "topic": "Situaciones comunicativas",
+      "competency": "Coherencia textual",
+      "source": "archive/2005-1/ingles.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 13,
+      "keySheet": "Idiomas"
+    },
+    {
+      "id": "icfes-2005-1-ingles-113",
+      "number": 113,
+      "area": "ingles",
+      "discipline": "Inglés",
+      "period": "2005-1",
+      "page": 3,
+      "title": "Making a polite request",
+      "prompt": "Mark has a problem with his pen, so he asks his teacher for one. Mark says:",
+      "options": [
+        "Could you lend me your pen?",
+        "It would be great if you can give me that pen.",
+        "I need that pen, please give it to me.",
+        "Would you like to give me that pen?"
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "«Could you lend me ...?» es una petición cortés y precisa para pedir algo prestado. Las otras alternativas resultan menos adecuadas al contexto o cambian la intención.",
+      "topic": "Situaciones comunicativas",
+      "competency": "Coherencia textual",
+      "source": "archive/2005-1/ingles.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 14,
+      "keySheet": "Idiomas"
+    },
+    {
+      "id": "icfes-2005-1-ingles-118",
+      "number": 118,
+      "area": "ingles",
+      "discipline": "Inglés",
+      "period": "2005-1",
+      "page": 4,
+      "title": "Understanding the whole story",
+      "prompt": "Based on the text, we can conclude that",
+      "options": [
+        "it was an unlucky night for the man.",
+        "the man should have had a watch.",
+        "the man was finally able to sleep well.",
+        "it was a lucky day for the man."
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "El personaje intenta dormir y es despertado varias veces. Incluso el cartel que escribe provoca otra interrupción. Esa secuencia apoya que tuvo una noche desafortunada.",
+      "topic": "Comprensión de textos",
+      "competency": "Coherencia textual",
+      "source": "archive/2005-1/ingles.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 15,
+      "keySheet": "Idiomas",
+      "context": {
+        "title": "The tramp",
+        "body": "A tramp was sleeping on a park bench late at night. A man and woman went past. One of them tapped him on the shoulder and asked, “Excuse me! What’s the time?”. The tramp was very annoyed at being woken up. “I don’t know!”, he said angrily. “I don’t have a watch”. And he went back to sleep.\n\nSome time later another man who was passing by woke the tramp up and said, “I’m sorry to bother you, but I wonder if you could tell me what time it is”.\n\nAgain the tramp said that he didn’t know. By now he was very irritated so he got a pen and a piece of paper and wrote “I DON’T KNOW WHAT THE TIME IS” on it, and went back to sleep.\n\nHalf an hour later, a policeman went by. He read the sign, woke the tramp up and said: “It’s 2:30, sir”.",
+        "citation": "Cuadernillo histórico de Inglés, 2005-1, página 4."
+      }
+    },
+    {
+      "id": "icfes-2005-1-ingles-119",
+      "number": 119,
+      "area": "ingles",
+      "discipline": "Inglés",
+      "period": "2005-1",
+      "page": 4,
+      "title": "Finding a pronoun’s reference",
+      "prompt": "In “wrote ‘I DON’T KNOW WHAT THE TIME IS’ on it”, the word “it” refers to:",
+      "options": [
+        "the watch.",
+        "the park bench.",
+        "the piece of paper.",
+        "the pen."
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "El pronombre «it» retoma «a piece of paper», la superficie sobre la que escribe. Revisa el sustantivo compatible más cercano en la misma oración.",
+      "topic": "Comprensión de textos",
+      "competency": "Textual",
+      "source": "archive/2005-1/ingles.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 16,
+      "keySheet": "Idiomas",
+      "context": {
+        "title": "The tramp",
+        "body": "A tramp was sleeping on a park bench late at night. A man and woman went past. One of them tapped him on the shoulder and asked, “Excuse me! What’s the time?”. The tramp was very annoyed at being woken up. “I don’t know!”, he said angrily. “I don’t have a watch”. And he went back to sleep.\n\nSome time later another man who was passing by woke the tramp up and said, “I’m sorry to bother you, but I wonder if you could tell me what time it is”.\n\nAgain the tramp said that he didn’t know. By now he was very irritated so he got a pen and a piece of paper and wrote “I DON’T KNOW WHAT THE TIME IS” on it, and went back to sleep.\n\nHalf an hour later, a policeman went by. He read the sign, woke the tramp up and said: “It’s 2:30, sir”.",
+        "citation": "Cuadernillo histórico de Inglés, 2005-1, página 4."
+      }
+    },
+    {
+      "id": "icfes-2005-1-ingles-120",
+      "number": 120,
+      "area": "ingles",
+      "discipline": "Inglés",
+      "period": "2005-1",
+      "page": 4,
+      "title": "Inferring an intention",
+      "prompt": "“He read the sign, woke the tramp up and said: ‘It’s 2:30, sir’” implies that the policeman",
+      "options": [
+        "hated people who sleep on park benches.",
+        "didn’t want the man to stay there anymore.",
+        "wanted to start a conversation with the man.",
+        "thought the tramp wanted to know the time."
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "El policía interpreta «No sé qué hora es» como una necesidad de información. Por eso despierta al hombre para decirle la hora, sin captar que el cartel buscaba evitar interrupciones.",
+      "topic": "Comprensión de textos",
+      "competency": "Textual",
+      "source": "archive/2005-1/ingles.pdf",
+      "answerSource": "archive/2005-1/respuestas.xls",
+      "keyRow": 17,
+      "keySheet": "Idiomas",
+      "context": {
+        "title": "The tramp",
+        "body": "A tramp was sleeping on a park bench late at night. A man and woman went past. One of them tapped him on the shoulder and asked, “Excuse me! What’s the time?”. The tramp was very annoyed at being woken up. “I don’t know!”, he said angrily. “I don’t have a watch”. And he went back to sleep.\n\nSome time later another man who was passing by woke the tramp up and said, “I’m sorry to bother you, but I wonder if you could tell me what time it is”.\n\nAgain the tramp said that he didn’t know. By now he was very irritated so he got a pen and a piece of paper and wrote “I DON’T KNOW WHAT THE TIME IS” on it, and went back to sleep.\n\nHalf an hour later, a policeman went by. He read the sign, woke the tramp up and said: “It’s 2:30, sir”.",
+        "citation": "Cuadernillo histórico de Inglés, 2005-1, página 4."
+      }
+    }
+  ],
+  "catalog": [
+    {
+      "id": "2003-1/filosofia.pdf",
+      "period": "2003-1",
+      "subject": "Filosofía",
+      "advanced": false,
+      "title": "Filosofía",
+      "url": "archive/2003-1/filosofia.pdf",
+      "bytes": 122715
+    },
+    {
+      "id": "2003-1/fisica.pdf",
+      "period": "2003-1",
+      "subject": "Física",
+      "advanced": false,
+      "title": "Física",
+      "url": "archive/2003-1/fisica.pdf",
+      "bytes": 446785
+    },
+    {
+      "id": "2003-1/historia.pdf",
+      "period": "2003-1",
+      "subject": "Historia",
+      "advanced": false,
+      "title": "Historia",
+      "url": "archive/2003-1/historia.pdf",
+      "bytes": 162031
+    },
+    {
+      "id": "2003-1/ingles.pdf",
+      "period": "2003-1",
+      "subject": "Inglés",
+      "advanced": false,
+      "title": "Inglés",
+      "url": "archive/2003-1/ingles.pdf",
+      "bytes": 647395
+    },
+    {
+      "id": "2003-1/lenguaje.pdf",
+      "period": "2003-1",
+      "subject": "Lenguaje",
+      "advanced": false,
+      "title": "Lenguaje",
+      "url": "archive/2003-1/lenguaje.pdf",
+      "bytes": 134667
+    },
+    {
+      "id": "2003-1/math.pdf",
+      "period": "2003-1",
+      "subject": "Matemáticas",
+      "advanced": false,
+      "title": "Matemáticas",
+      "url": "archive/2003-1/math.pdf",
+      "bytes": 722754
+    },
+    {
+      "id": "2003-1/medio ambiente.pdf",
+      "period": "2003-1",
+      "subject": "Medio ambiente",
+      "advanced": false,
+      "title": "Medio ambiente",
+      "url": "archive/2003-1/medio ambiente.pdf",
+      "bytes": 90451
+    },
+    {
+      "id": "2003-1/medios_comunicacion.pdf",
+      "period": "2003-1",
+      "subject": "Medios de comunicación",
+      "advanced": false,
+      "title": "Medios de comunicación",
+      "url": "archive/2003-1/medios_comunicacion.pdf",
+      "bytes": 139087
+    },
+    {
+      "id": "2003-1/proffilosofia.pdf",
+      "period": "2003-1",
+      "subject": "Filosofía",
+      "advanced": true,
+      "title": "Filosofía · Profundización",
+      "url": "archive/2003-1/proffilosofia.pdf",
+      "bytes": 117854
+    },
+    {
+      "id": "2003-1/proffisica.pdf",
+      "period": "2003-1",
+      "subject": "Física",
+      "advanced": true,
+      "title": "Física · Profundización",
+      "url": "archive/2003-1/proffisica.pdf",
+      "bytes": 390897
+    },
+    {
+      "id": "2003-1/profgeografia.pdf",
+      "period": "2003-1",
+      "subject": "Geografía",
+      "advanced": true,
+      "title": "Geografía · Profundización",
+      "url": "archive/2003-1/profgeografia.pdf",
+      "bytes": 459905
+    },
+    {
+      "id": "2003-1/profhistoria.pdf",
+      "period": "2003-1",
+      "subject": "Historia",
+      "advanced": true,
+      "title": "Historia · Profundización",
+      "url": "archive/2003-1/profhistoria.pdf",
+      "bytes": 122994
+    },
+    {
+      "id": "2003-1/proflenguaje.pdf",
+      "period": "2003-1",
+      "subject": "Lenguaje",
+      "advanced": true,
+      "title": "Lenguaje · Profundización",
+      "url": "archive/2003-1/proflenguaje.pdf",
+      "bytes": 112555
+    },
+    {
+      "id": "2003-1/profmath.pdf",
+      "period": "2003-1",
+      "subject": "Matemáticas",
+      "advanced": true,
+      "title": "Matemáticas · Profundización",
+      "url": "archive/2003-1/profmath.pdf",
+      "bytes": 229492
+    },
+    {
+      "id": "2003-1/profquimica.pdf",
+      "period": "2003-1",
+      "subject": "Química",
+      "advanced": true,
+      "title": "Química · Profundización",
+      "url": "archive/2003-1/profquimica.pdf",
+      "bytes": 165264
+    },
+    {
+      "id": "2003-1/quimica.pdf",
+      "period": "2003-1",
+      "subject": "Química",
+      "advanced": false,
+      "title": "Química",
+      "url": "archive/2003-1/quimica.pdf",
+      "bytes": 599816
+    },
+    {
+      "id": "2003-1/violencia.pdf",
+      "period": "2003-1",
+      "subject": "Violencia y sociedad",
+      "advanced": false,
+      "title": "Violencia y sociedad",
+      "url": "archive/2003-1/violencia.pdf",
+      "bytes": 122623
+    },
+    {
+      "id": "2003-2/filosofia.pdf",
+      "period": "2003-2",
+      "subject": "Filosofía",
+      "advanced": false,
+      "title": "Filosofía",
+      "url": "archive/2003-2/filosofia.pdf",
+      "bytes": 122421
+    },
+    {
+      "id": "2003-2/fisica.pdf",
+      "period": "2003-2",
+      "subject": "Física",
+      "advanced": false,
+      "title": "Física",
+      "url": "archive/2003-2/fisica.pdf",
+      "bytes": 978813
+    },
+    {
+      "id": "2003-2/historia.pdf",
+      "period": "2003-2",
+      "subject": "Historia",
+      "advanced": false,
+      "title": "Historia",
+      "url": "archive/2003-2/historia.pdf",
+      "bytes": 151053
+    },
+    {
+      "id": "2003-2/ingles.pdf",
+      "period": "2003-2",
+      "subject": "Inglés",
+      "advanced": false,
+      "title": "Inglés",
+      "url": "archive/2003-2/ingles.pdf",
+      "bytes": 335549
+    },
+    {
+      "id": "2003-2/lenguaje.pdf",
+      "period": "2003-2",
+      "subject": "Lenguaje",
+      "advanced": false,
+      "title": "Lenguaje",
+      "url": "archive/2003-2/lenguaje.pdf",
+      "bytes": 477389
+    },
+    {
+      "id": "2003-2/math.pdf",
+      "period": "2003-2",
+      "subject": "Matemáticas",
+      "advanced": false,
+      "title": "Matemáticas",
+      "url": "archive/2003-2/math.pdf",
+      "bytes": 1012529
+    },
+    {
+      "id": "2003-2/medio_ambiente.pdf",
+      "period": "2003-2",
+      "subject": "Medio ambiente",
+      "advanced": false,
+      "title": "Medio ambiente",
+      "url": "archive/2003-2/medio_ambiente.pdf",
+      "bytes": 328720
+    },
+    {
+      "id": "2003-2/medios_comunicacion.pdf",
+      "period": "2003-2",
+      "subject": "Medios de comunicación",
+      "advanced": false,
+      "title": "Medios de comunicación",
+      "url": "archive/2003-2/medios_comunicacion.pdf",
+      "bytes": 145945
+    },
+    {
+      "id": "2003-2/prfohistoria.pdf",
+      "period": "2003-2",
+      "subject": "Historia",
+      "advanced": true,
+      "title": "Historia · Profundización",
+      "url": "archive/2003-2/prfohistoria.pdf",
+      "bytes": 128724
+    },
+    {
+      "id": "2003-2/profbiologia.pdf",
+      "period": "2003-2",
+      "subject": "Biología",
+      "advanced": true,
+      "title": "Biología · Profundización",
+      "url": "archive/2003-2/profbiologia.pdf",
+      "bytes": 891007
+    },
+    {
+      "id": "2003-2/proffilosofia.pdf",
+      "period": "2003-2",
+      "subject": "Filosofía",
+      "advanced": true,
+      "title": "Filosofía · Profundización",
+      "url": "archive/2003-2/proffilosofia.pdf",
+      "bytes": 123830
+    },
+    {
+      "id": "2003-2/proffisica.pdf",
+      "period": "2003-2",
+      "subject": "Física",
+      "advanced": true,
+      "title": "Física · Profundización",
+      "url": "archive/2003-2/proffisica.pdf",
+      "bytes": 478733
+    },
+    {
+      "id": "2003-2/profgeografia.pdf",
+      "period": "2003-2",
+      "subject": "Geografía",
+      "advanced": true,
+      "title": "Geografía · Profundización",
+      "url": "archive/2003-2/profgeografia.pdf",
+      "bytes": 281606
+    },
+    {
+      "id": "2003-2/proflenguaje.pdf",
+      "period": "2003-2",
+      "subject": "Lenguaje",
+      "advanced": true,
+      "title": "Lenguaje · Profundización",
+      "url": "archive/2003-2/proflenguaje.pdf",
+      "bytes": 120848
+    },
+    {
+      "id": "2003-2/profmath.pdf",
+      "period": "2003-2",
+      "subject": "Matemáticas",
+      "advanced": true,
+      "title": "Matemáticas · Profundización",
+      "url": "archive/2003-2/profmath.pdf",
+      "bytes": 317743
+    },
+    {
+      "id": "2003-2/profquimica.pdf",
+      "period": "2003-2",
+      "subject": "Química",
+      "advanced": true,
+      "title": "Química · Profundización",
+      "url": "archive/2003-2/profquimica.pdf",
+      "bytes": 407389
+    },
+    {
+      "id": "2003-2/quimica.pdf",
+      "period": "2003-2",
+      "subject": "Química",
+      "advanced": false,
+      "title": "Química",
+      "url": "archive/2003-2/quimica.pdf",
+      "bytes": 481477
+    },
+    {
+      "id": "2003-2/violencia.pdf",
+      "period": "2003-2",
+      "subject": "Violencia y sociedad",
+      "advanced": false,
+      "title": "Violencia y sociedad",
+      "url": "archive/2003-2/violencia.pdf",
+      "bytes": 118048
+    },
+    {
+      "id": "2004-1/filosofia.pdf",
+      "period": "2004-1",
+      "subject": "Filosofía",
+      "advanced": false,
+      "title": "Filosofía",
+      "url": "archive/2004-1/filosofia.pdf",
+      "bytes": 211930
+    },
+    {
+      "id": "2004-1/fisica.pdf",
+      "period": "2004-1",
+      "subject": "Física",
+      "advanced": false,
+      "title": "Física",
+      "url": "archive/2004-1/fisica.pdf",
+      "bytes": 1053412
+    },
+    {
+      "id": "2004-1/geografia.pdf",
+      "period": "2004-1",
+      "subject": "Geografía",
+      "advanced": false,
+      "title": "Geografía",
+      "url": "archive/2004-1/geografia.pdf",
+      "bytes": 838299
+    },
+    {
+      "id": "2004-1/historia.pdf",
+      "period": "2004-1",
+      "subject": "Historia",
+      "advanced": false,
+      "title": "Historia",
+      "url": "archive/2004-1/historia.pdf",
+      "bytes": 189846
+    },
+    {
+      "id": "2004-1/lenguaje.pdf",
+      "period": "2004-1",
+      "subject": "Lenguaje",
+      "advanced": false,
+      "title": "Lenguaje",
+      "url": "archive/2004-1/lenguaje.pdf",
+      "bytes": 115553
+    },
+    {
+      "id": "2004-1/math.pdf",
+      "period": "2004-1",
+      "subject": "Matemáticas",
+      "advanced": false,
+      "title": "Matemáticas",
+      "url": "archive/2004-1/math.pdf",
+      "bytes": 1691322
+    },
+    {
+      "id": "2004-1/medio_ambiente.pdf",
+      "period": "2004-1",
+      "subject": "Medio ambiente",
+      "advanced": false,
+      "title": "Medio ambiente",
+      "url": "archive/2004-1/medio_ambiente.pdf",
+      "bytes": 269440
+    },
+    {
+      "id": "2004-1/medio_comunicacion.pdf",
+      "period": "2004-1",
+      "subject": "Medios de comunicación",
+      "advanced": false,
+      "title": "Medios de comunicación",
+      "url": "archive/2004-1/medio_comunicacion.pdf",
+      "bytes": 121377
+    },
+    {
+      "id": "2004-1/profbiologia.pdf",
+      "period": "2004-1",
+      "subject": "Biología",
+      "advanced": true,
+      "title": "Biología · Profundización",
+      "url": "archive/2004-1/profbiologia.pdf",
+      "bytes": 698807
+    },
+    {
+      "id": "2004-1/proffilosofia.pdf",
+      "period": "2004-1",
+      "subject": "Filosofía",
+      "advanced": true,
+      "title": "Filosofía · Profundización",
+      "url": "archive/2004-1/proffilosofia.pdf",
+      "bytes": 228703
+    },
+    {
+      "id": "2004-1/proffisica.pdf",
+      "period": "2004-1",
+      "subject": "Física",
+      "advanced": true,
+      "title": "Física · Profundización",
+      "url": "archive/2004-1/proffisica.pdf",
+      "bytes": 430859
+    },
+    {
+      "id": "2004-1/profgeografia.pdf",
+      "period": "2004-1",
+      "subject": "Geografía",
+      "advanced": true,
+      "title": "Geografía · Profundización",
+      "url": "archive/2004-1/profgeografia.pdf",
+      "bytes": 658407
+    },
+    {
+      "id": "2004-1/proflenguaje.pdf",
+      "period": "2004-1",
+      "subject": "Lenguaje",
+      "advanced": true,
+      "title": "Lenguaje · Profundización",
+      "url": "archive/2004-1/proflenguaje.pdf",
+      "bytes": 232783
+    },
+    {
+      "id": "2004-1/profmath.pdf",
+      "period": "2004-1",
+      "subject": "Matemáticas",
+      "advanced": true,
+      "title": "Matemáticas · Profundización",
+      "url": "archive/2004-1/profmath.pdf",
+      "bytes": 616656
+    },
+    {
+      "id": "2004-1/profquimica.pdf",
+      "period": "2004-1",
+      "subject": "Química",
+      "advanced": true,
+      "title": "Química · Profundización",
+      "url": "archive/2004-1/profquimica.pdf",
+      "bytes": 240441
+    },
+    {
+      "id": "2004-1/quimica.pdf",
+      "period": "2004-1",
+      "subject": "Química",
+      "advanced": false,
+      "title": "Química",
+      "url": "archive/2004-1/quimica.pdf",
+      "bytes": 676439
+    },
+    {
+      "id": "2004-1/violencia.pdf",
+      "period": "2004-1",
+      "subject": "Violencia y sociedad",
+      "advanced": false,
+      "title": "Violencia y sociedad",
+      "url": "archive/2004-1/violencia.pdf",
+      "bytes": 133955
+    },
+    {
+      "id": "2004-2/aleman.pdf",
+      "period": "2004-2",
+      "subject": "Alemán",
+      "advanced": false,
+      "title": "Alemán",
+      "url": "archive/2004-2/aleman.pdf",
+      "bytes": 305056
+    },
+    {
+      "id": "2004-2/filosofia.pdf",
+      "period": "2004-2",
+      "subject": "Filosofía",
+      "advanced": false,
+      "title": "Filosofía",
+      "url": "archive/2004-2/filosofia.pdf",
+      "bytes": 213103
+    },
+    {
+      "id": "2004-2/fisica.pdf",
+      "period": "2004-2",
+      "subject": "Física",
+      "advanced": false,
+      "title": "Física",
+      "url": "archive/2004-2/fisica.pdf",
+      "bytes": 705148
+    },
+    {
+      "id": "2004-2/frances.pdf",
+      "period": "2004-2",
+      "subject": "Francés",
+      "advanced": false,
+      "title": "Francés",
+      "url": "archive/2004-2/frances.pdf",
+      "bytes": 851967
+    },
+    {
+      "id": "2004-2/historia.pdf",
+      "period": "2004-2",
+      "subject": "Historia",
+      "advanced": false,
+      "title": "Historia",
+      "url": "archive/2004-2/historia.pdf",
+      "bytes": 139201
+    },
+    {
+      "id": "2004-2/ingles.pdf",
+      "period": "2004-2",
+      "subject": "Inglés",
+      "advanced": false,
+      "title": "Inglés",
+      "url": "archive/2004-2/ingles.pdf",
+      "bytes": 311873
+    },
+    {
+      "id": "2004-2/lenguaje.pdf",
+      "period": "2004-2",
+      "subject": "Lenguaje",
+      "advanced": false,
+      "title": "Lenguaje",
+      "url": "archive/2004-2/lenguaje.pdf",
+      "bytes": 178340
+    },
+    {
+      "id": "2004-2/matematicas.pdf",
+      "period": "2004-2",
+      "subject": "Matemáticas",
+      "advanced": false,
+      "title": "Matemáticas",
+      "url": "archive/2004-2/matematicas.pdf",
+      "bytes": 1325867
+    },
+    {
+      "id": "2004-2/medio ambiente.pdf",
+      "period": "2004-2",
+      "subject": "Medio ambiente",
+      "advanced": false,
+      "title": "Medio ambiente",
+      "url": "archive/2004-2/medio ambiente.pdf",
+      "bytes": 284962
+    },
+    {
+      "id": "2004-2/medios.pdf",
+      "period": "2004-2",
+      "subject": "Medios de comunicación",
+      "advanced": false,
+      "title": "Medios de comunicación",
+      "url": "archive/2004-2/medios.pdf",
+      "bytes": 174038
+    },
+    {
+      "id": "2004-2/prof biologia.pdf",
+      "period": "2004-2",
+      "subject": "Biología",
+      "advanced": true,
+      "title": "Biología · Profundización",
+      "url": "archive/2004-2/prof biologia.pdf",
+      "bytes": 587162
+    },
+    {
+      "id": "2004-2/prof filosofia.pdf",
+      "period": "2004-2",
+      "subject": "Filosofía",
+      "advanced": true,
+      "title": "Filosofía · Profundización",
+      "url": "archive/2004-2/prof filosofia.pdf",
+      "bytes": 197582
+    },
+    {
+      "id": "2004-2/prof fisica.pdf",
+      "period": "2004-2",
+      "subject": "Física",
+      "advanced": true,
+      "title": "Física · Profundización",
+      "url": "archive/2004-2/prof fisica.pdf",
+      "bytes": 679520
+    },
+    {
+      "id": "2004-2/prof historia.pdf",
+      "period": "2004-2",
+      "subject": "Historia",
+      "advanced": true,
+      "title": "Historia · Profundización",
+      "url": "archive/2004-2/prof historia.pdf",
+      "bytes": 132944
+    },
+    {
+      "id": "2004-2/prof lenguaje.pdf",
+      "period": "2004-2",
+      "subject": "Lenguaje",
+      "advanced": true,
+      "title": "Lenguaje · Profundización",
+      "url": "archive/2004-2/prof lenguaje.pdf",
+      "bytes": 175083
+    },
+    {
+      "id": "2004-2/prof matematicas.pdf",
+      "period": "2004-2",
+      "subject": "Matemáticas",
+      "advanced": true,
+      "title": "Matemáticas · Profundización",
+      "url": "archive/2004-2/prof matematicas.pdf",
+      "bytes": 640586
+    },
+    {
+      "id": "2004-2/prof quimica.pdf",
+      "period": "2004-2",
+      "subject": "Química",
+      "advanced": true,
+      "title": "Química · Profundización",
+      "url": "archive/2004-2/prof quimica.pdf",
+      "bytes": 505087
+    },
+    {
+      "id": "2004-2/viol soci.pdf",
+      "period": "2004-2",
+      "subject": "Violencia y sociedad",
+      "advanced": false,
+      "title": "Violencia y sociedad",
+      "url": "archive/2004-2/viol soci.pdf",
+      "bytes": 186194
+    },
+    {
+      "id": "2005-1/aleman.pdf",
+      "period": "2005-1",
+      "subject": "Alemán",
+      "advanced": false,
+      "title": "Alemán",
+      "url": "archive/2005-1/aleman.pdf",
+      "bytes": 161661
+    },
+    {
+      "id": "2005-1/biologia.pdf",
+      "period": "2005-1",
+      "subject": "Biología",
+      "advanced": false,
+      "title": "Biología",
+      "url": "archive/2005-1/biologia.pdf",
+      "bytes": 601539
+    },
+    {
+      "id": "2005-1/filosofia.pdf",
+      "period": "2005-1",
+      "subject": "Filosofía",
+      "advanced": false,
+      "title": "Filosofía",
+      "url": "archive/2005-1/filosofia.pdf",
+      "bytes": 163021
+    },
+    {
+      "id": "2005-1/fisica.pdf",
+      "period": "2005-1",
+      "subject": "Física",
+      "advanced": false,
+      "title": "Física",
+      "url": "archive/2005-1/fisica.pdf",
+      "bytes": 377868
+    },
+    {
+      "id": "2005-1/frances.pdf",
+      "period": "2005-1",
+      "subject": "Francés",
+      "advanced": false,
+      "title": "Francés",
+      "url": "archive/2005-1/frances.pdf",
+      "bytes": 430479
+    },
+    {
+      "id": "2005-1/geografia.pdf",
+      "period": "2005-1",
+      "subject": "Geografía",
+      "advanced": false,
+      "title": "Geografía",
+      "url": "archive/2005-1/geografia.pdf",
+      "bytes": 631630
+    },
+    {
+      "id": "2005-1/historia.pdf",
+      "period": "2005-1",
+      "subject": "Historia",
+      "advanced": false,
+      "title": "Historia",
+      "url": "archive/2005-1/historia.pdf",
+      "bytes": 160123
+    },
+    {
+      "id": "2005-1/ingles.pdf",
+      "period": "2005-1",
+      "subject": "Inglés",
+      "advanced": false,
+      "title": "Inglés",
+      "url": "archive/2005-1/ingles.pdf",
+      "bytes": 610015
+    },
+    {
+      "id": "2005-1/lenguaje.pdf",
+      "period": "2005-1",
+      "subject": "Lenguaje",
+      "advanced": false,
+      "title": "Lenguaje",
+      "url": "archive/2005-1/lenguaje.pdf",
+      "bytes": 151302
+    },
+    {
+      "id": "2005-1/math.pdf",
+      "period": "2005-1",
+      "subject": "Matemáticas",
+      "advanced": false,
+      "title": "Matemáticas",
+      "url": "archive/2005-1/math.pdf",
+      "bytes": 205935
+    },
+    {
+      "id": "2005-1/medioambiente.pdf",
+      "period": "2005-1",
+      "subject": "Medio ambiente",
+      "advanced": false,
+      "title": "Medio ambiente",
+      "url": "archive/2005-1/medioambiente.pdf",
+      "bytes": 437363
+    },
+    {
+      "id": "2005-1/profbiologia.pdf",
+      "period": "2005-1",
+      "subject": "Biología",
+      "advanced": true,
+      "title": "Biología · Profundización",
+      "url": "archive/2005-1/profbiologia.pdf",
+      "bytes": 903479
+    },
+    {
+      "id": "2005-1/profhistoria.pdf",
+      "period": "2005-1",
+      "subject": "Historia",
+      "advanced": true,
+      "title": "Historia · Profundización",
+      "url": "archive/2005-1/profhistoria.pdf",
+      "bytes": 192202
+    },
+    {
+      "id": "2005-1/proflenguaje.pdf",
+      "period": "2005-1",
+      "subject": "Lenguaje",
+      "advanced": true,
+      "title": "Lenguaje · Profundización",
+      "url": "archive/2005-1/proflenguaje.pdf",
+      "bytes": 179436
+    },
+    {
+      "id": "2005-1/profmath.pdf",
+      "period": "2005-1",
+      "subject": "Matemáticas",
+      "advanced": true,
+      "title": "Matemáticas · Profundización",
+      "url": "archive/2005-1/profmath.pdf",
+      "bytes": 332747
+    },
+    {
+      "id": "2005-1/quimica.pdf",
+      "period": "2005-1",
+      "subject": "Química",
+      "advanced": false,
+      "title": "Química",
+      "url": "archive/2005-1/quimica.pdf",
+      "bytes": 241557
+    },
+    {
+      "id": "2005-1/violencia.pdf",
+      "period": "2005-1",
+      "subject": "Violencia y sociedad",
+      "advanced": false,
+      "title": "Violencia y sociedad",
+      "url": "archive/2005-1/violencia.pdf",
+      "bytes": 166918
+    },
+    {
+      "id": "2005-2/biologia.pdf",
+      "period": "2005-2",
+      "subject": "Biología",
+      "advanced": false,
+      "title": "Biología",
+      "url": "archive/2005-2/biologia.pdf",
+      "bytes": 522139
+    },
+    {
+      "id": "2005-2/filosofia.pdf",
+      "period": "2005-2",
+      "subject": "Filosofía",
+      "advanced": false,
+      "title": "Filosofía",
+      "url": "archive/2005-2/filosofia.pdf",
+      "bytes": 96596
+    },
+    {
+      "id": "2005-2/fisica.pdf",
+      "period": "2005-2",
+      "subject": "Física",
+      "advanced": false,
+      "title": "Física",
+      "url": "archive/2005-2/fisica.pdf",
+      "bytes": 122120
+    },
+    {
+      "id": "2005-2/geografia.pdf",
+      "period": "2005-2",
+      "subject": "Geografía",
+      "advanced": false,
+      "title": "Geografía",
+      "url": "archive/2005-2/geografia.pdf",
+      "bytes": 211710
+    },
+    {
+      "id": "2005-2/historia.pdf",
+      "period": "2005-2",
+      "subject": "Historia",
+      "advanced": false,
+      "title": "Historia",
+      "url": "archive/2005-2/historia.pdf",
+      "bytes": 108649
+    },
+    {
+      "id": "2005-2/lenguaje.pdf",
+      "period": "2005-2",
+      "subject": "Lenguaje",
+      "advanced": false,
+      "title": "Lenguaje",
+      "url": "archive/2005-2/lenguaje.pdf",
+      "bytes": 83163
+    },
+    {
+      "id": "2005-2/math.pdf",
+      "period": "2005-2",
+      "subject": "Matemáticas",
+      "advanced": false,
+      "title": "Matemáticas",
+      "url": "archive/2005-2/math.pdf",
+      "bytes": 482254
+    },
+    {
+      "id": "2005-2/medioambiente.pdf",
+      "period": "2005-2",
+      "subject": "Medio ambiente",
+      "advanced": false,
+      "title": "Medio ambiente",
+      "url": "archive/2005-2/medioambiente.pdf",
+      "bytes": 102165
+    },
+    {
+      "id": "2005-2/profbiologia.pdf",
+      "period": "2005-2",
+      "subject": "Biología",
+      "advanced": true,
+      "title": "Biología · Profundización",
+      "url": "archive/2005-2/profbiologia.pdf",
+      "bytes": 446881
+    },
+    {
+      "id": "2005-2/profhistoria.pdf",
+      "period": "2005-2",
+      "subject": "Historia",
+      "advanced": true,
+      "title": "Historia · Profundización",
+      "url": "archive/2005-2/profhistoria.pdf",
+      "bytes": 139156
+    },
+    {
+      "id": "2005-2/proflenguaje.pdf",
+      "period": "2005-2",
+      "subject": "Lenguaje",
+      "advanced": true,
+      "title": "Lenguaje · Profundización",
+      "url": "archive/2005-2/proflenguaje.pdf",
+      "bytes": 91452
+    },
+    {
+      "id": "2005-2/profmath.pdf",
+      "period": "2005-2",
+      "subject": "Matemáticas",
+      "advanced": true,
+      "title": "Matemáticas · Profundización",
+      "url": "archive/2005-2/profmath.pdf",
+      "bytes": 307900
+    },
+    {
+      "id": "2005-2/quimica.pdf",
+      "period": "2005-2",
+      "subject": "Química",
+      "advanced": false,
+      "title": "Química",
+      "url": "archive/2005-2/quimica.pdf",
+      "bytes": 276183
+    },
+    {
+      "id": "2005-2/violencia.pdf",
+      "period": "2005-2",
+      "subject": "Violencia y sociedad",
+      "advanced": false,
+      "title": "Violencia y sociedad",
+      "url": "archive/2005-2/violencia.pdf",
+      "bytes": 124042
+    },
+    {
+      "id": "2010-1/AC_EP_Fisica_2010_Liberadas.pdf",
+      "period": "2010-1",
+      "subject": "Fisica",
+      "advanced": false,
+      "title": "Fisica",
+      "url": "archive/2010-1/AC_EP_Fisica_2010_Liberadas.pdf",
+      "bytes": 2583906
+    },
+    {
+      "id": "2010-1/AC_EP_Lenguaje_2010.pdf",
+      "period": "2010-1",
+      "subject": "Lenguaje",
+      "advanced": false,
+      "title": "Lenguaje",
+      "url": "archive/2010-1/AC_EP_Lenguaje_2010.pdf",
+      "bytes": 947674
+    },
+    {
+      "id": "2010-1/AC_EP_MEDIO_AMBIENTE_2010-1.pdf",
+      "period": "2010-1",
+      "subject": "Medio Ambiente",
+      "advanced": false,
+      "title": "Medio Ambiente",
+      "url": "archive/2010-1/AC_EP_MEDIO_AMBIENTE_2010-1.pdf",
+      "bytes": 1902529
+    },
+    {
+      "id": "2010-1/AC_EP_Matematicas_2010.pdf",
+      "period": "2010-1",
+      "subject": "Matematicas",
+      "advanced": false,
+      "title": "Matematicas",
+      "url": "archive/2010-1/AC_EP_Matematicas_2010.pdf",
+      "bytes": 2135491
+    },
+    {
+      "id": "2010-1/index.pdf",
+      "period": "2010-1",
+      "subject": "Índice",
+      "advanced": false,
+      "title": "Índice",
+      "url": "archive/2010-1/index.pdf",
+      "bytes": 10641
+    }
+  ],
+  "provenance": {
+    "archive": "Pruebas de Estado.zip",
+    "edition": "15 de mayo de 2005",
+    "key": "respuestas.xls",
+    "explanations": "Orientaciones didácticas elaboradas para Punto. No son explicaciones oficiales del ICFES.",
+    "excluded": [
+      {
+        "subject": "Matemáticas",
+        "number": 16,
+        "reason": "Retirado de la calificación en el documento original."
+      },
+      {
+        "subject": "Matemáticas",
+        "number": 15,
+        "reason": "No incluido en esta selección por la formulación de probabilidad."
+      },
+      {
+        "subject": "Lenguaje",
+        "number": 8,
+        "reason": "No incluido en esta selección por la correspondencia entre enunciado y clave."
+      }
+    ]
+  }
+}

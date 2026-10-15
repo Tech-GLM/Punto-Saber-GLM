@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#2859bc">
+<meta name="description" content="Encuentra tu ritmo de estudio con Punto: preguntas históricas del ICFES, práctica por áreas, simulacros y revisión de respuestas.">
+<title>Punto · Tu próximo gran paso</title>
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#main">Saltar al contenido</a>
+<aside class="sidebar" aria-label="Navegación principal">
+ <a class="brand" href="#inicio" aria-label="Punto, inicio"><span class="brand-mark"><i></i><i></i><i></i><i></i></span>punto<span class="brand-dot">.</span></a>
+ <div class="workspace-label">TU ESPACIO DE PRÁCTICA</div>
+ <nav id="navigation"></nav>
+ <div class="sidebar-bottom"><div class="mini-symbol">✳</div><h3>Un poco, cada día.</h3><p>El hábito también se entrena.<br>Hoy es un buen día para empezar.</p><button class="side-cta" data-action="quick">Hacer una práctica <span aria-hidden="true">↗</span></button></div>
+ <div class="sidebar-footer"><span class="status-dot"></span> Tu progreso queda en este navegador</div>
+</aside>
+<div class="app-shell">
+<header class="topbar"><div class="breadcrumb"><span>Punto de partida</span><span class="crumb-divider">/</span><b id="crumb">Mi espacio</b></div><div class="top-right"><span id="date-label"></span><button class="avatar" data-action="info" aria-label="Información de tu espacio">Tú</button></div></header>
+<main id="main" tabindex="-1"><div class="loading-state"><span class="loader"></span><p>Preparando tu punto de partida…</p></div></main>
+<footer class="app-footer"><span>punto. <span class="muted">La práctica abre posibilidades.</span></span><a href="#fuentes">Fuentes y material histórico <span aria-hidden="true">↗</span></a></footer>
+</div>
+<dialog id="modal" aria-labelledby="modal-title"></dialog>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script type="module" src="app.mjs"></script>
+<noscript><div class="noscript">Activa JavaScript para practicar. Puedes consultar los <a href="archive/2005-1/math.pdf">cuadernillos originales</a> sin activarlo.</div></noscript>
+</body></html>
